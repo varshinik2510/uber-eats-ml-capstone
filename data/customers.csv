@@ -1,0 +1,1001 @@
+customer_id,name,email,age,customer_tier,city_zone,signup_date
+CUST_0001,Donald Walker,rhodespatricia@example.org,39,Silver,University Zone,2025-12-25
+CUST_0002,Brandon Hall,hoffmanjennifer@example.net,33,Silver,Midtown,2025-11-22
+CUST_0003,Kevin Pacheco,blakeerik@example.com,37,Silver,University Zone,2025-10-22
+CUST_0004,Tyler Rogers,jamesmichael@example.com,45,UberOne,Suburbs,2025-06-07
+CUST_0005,Monica Herrera,smiller@example.net,35,Bronze,Suburbs,2025-12-01
+CUST_0006,Laura Bush,stanleykendra@example.org,30,UberOne,Uptown,2025-12-11
+CUST_0007,Jamie Chavez,francisco53@example.net,36,Silver,University Zone,2026-05-18
+CUST_0008,Maria Lynch,amandasanchez@example.com,34,Silver,University Zone,2025-04-19
+CUST_0009,Margaret Hawkins DDS,perezantonio@example.com,32,UberOne,Midtown,2025-07-03
+CUST_0010,Thomas Bradley,jason76@example.net,34,Bronze,Midtown,2025-07-18
+CUST_0011,David Hoffman,julie69@example.com,37,Bronze,Suburbs,2025-08-25
+CUST_0012,Brenda Snyder PhD,hernandezernest@example.net,28,Silver,Uptown,2025-06-21
+CUST_0013,James Ferrell,tasha01@example.net,32,Silver,Midtown,2025-08-01
+CUST_0014,Patricia Peterson,ryan70@example.net,38,Bronze,Midtown,2026-06-07
+CUST_0015,Jonathan White,harrellkenneth@example.net,30,Gold,Suburbs,2026-06-01
+CUST_0016,James Martin,georgetracy@example.org,35,UberOne,Suburbs,2025-09-27
+CUST_0017,Sandra Parker,allenashley@example.org,42,Bronze,Suburbs,2026-07-07
+CUST_0018,Mr. Philip Cannon,donnaarroyo@example.org,36,Bronze,University Zone,2024-12-18
+CUST_0019,Jenny Lewis,jenniferross@example.net,20,Gold,Midtown,2025-04-17
+CUST_0020,Joseph Martinez,calebsmith@example.net,27,UberOne,Suburbs,2026-01-01
+CUST_0021,Benjamin Welch,carlosjohnson@example.com,23,Gold,Downtown,2025-03-25
+CUST_0022,Michael Lewis,jenniferkhan@example.net,36,Bronze,Downtown,2024-12-08
+CUST_0023,Rhonda Lee,hopkinsmichael@example.com,28,Bronze,Uptown,2025-09-04
+CUST_0024,Megan Joyce,brownjessica@example.org,41,Bronze,Uptown,2025-08-31
+CUST_0025,Jerry Henderson,steven17@example.net,39,UberOne,Midtown,2025-04-06
+CUST_0026,Kimberly Smith,housemelinda@example.org,48,Bronze,Downtown,2024-12-26
+CUST_0027,Dr. Steven Martin,gallowayjoseph@example.com,19,Bronze,University Zone,2025-07-21
+CUST_0028,Monica Logan,smoore@example.org,45,Silver,Uptown,2025-05-01
+CUST_0029,Kimberly Adkins,williamsthomas@example.net,18,UberOne,Uptown,2026-08-03
+CUST_0030,Angela Lopez,leonardjoe@example.org,45,Gold,Midtown,2025-02-04
+CUST_0031,Lauren Williams,barnesbrandy@example.net,27,Bronze,Midtown,2026-07-15
+CUST_0032,Michael Edwards,randy47@example.com,26,Bronze,University Zone,2025-05-22
+CUST_0033,Alexandra Howell,jonesjason@example.com,36,Silver,University Zone,2026-07-07
+CUST_0034,Benjamin Sanchez,eric84@example.net,33,Silver,University Zone,2025-01-18
+CUST_0035,Kendra Contreras,sarah12@example.com,29,Gold,Suburbs,2026-08-13
+CUST_0036,Juan Nelson,jenniferharris@example.net,20,UberOne,Uptown,2025-01-07
+CUST_0037,Danielle Odonnell,davisrodney@example.com,42,Silver,Downtown,2026-05-17
+CUST_0038,Carlos Whitney,joycearnold@example.com,38,Bronze,Suburbs,2024-11-20
+CUST_0039,Tony Vazquez,amydavenport@example.net,29,Gold,Uptown,2025-11-02
+CUST_0040,Andrew Diaz,nolanjason@example.org,40,Bronze,Suburbs,2025-10-27
+CUST_0041,Justin Baxter,sarayoung@example.org,42,Bronze,Uptown,2026-01-12
+CUST_0042,Sierra Johnson,kimberly63@example.com,32,Bronze,Suburbs,2026-08-08
+CUST_0043,Janet Williams,dwalker@example.com,21,Bronze,Uptown,2025-02-05
+CUST_0044,Crystal Johnson,raymondramirez@example.org,24,Bronze,University Zone,2025-05-14
+CUST_0045,Martin Ross,sheila14@example.org,24,Bronze,Uptown,2026-08-01
+CUST_0046,Mrs. Linda Reed,samuel81@example.com,44,Bronze,Downtown,2025-11-15
+CUST_0047,Andrew Graham,michaeljones@example.net,28,Bronze,Suburbs,2026-06-17
+CUST_0048,Mary Martinez,william65@example.com,33,Bronze,Midtown,2026-07-01
+CUST_0049,Cheryl Ortega,lbyrd@example.net,27,UberOne,Uptown,2026-02-01
+CUST_0050,Roy Torres,russellcarpenter@example.net,39,Silver,Midtown,2025-11-07
+CUST_0051,Michael Dixon,donnacampbell@example.net,30,Bronze,Downtown,2025-05-26
+CUST_0052,Robert Potter,jeffrey32@example.org,34,Bronze,Midtown,2025-12-20
+CUST_0053,Miss Patricia Gibson,jennifercruz@example.com,18,Silver,Suburbs,2024-11-22
+CUST_0054,Abigail Potter,osbornejeffery@example.net,49,Bronze,Uptown,2025-04-03
+CUST_0055,David Charles,danderson@example.net,42,Silver,Midtown,2025-10-04
+CUST_0056,Emily Fischer,usalazar@example.net,28,Silver,Uptown,2025-10-13
+CUST_0057,Jill Moore,wcole@example.org,40,Bronze,Uptown,2025-08-04
+CUST_0058,Richard Washington,joshuajones@example.com,40,Bronze,University Zone,2026-05-08
+CUST_0059,Steven Miller,jessebenson@example.net,30,Bronze,Midtown,2025-03-28
+CUST_0060,Gary Owens,clarkrobert@example.net,43,Silver,Uptown,2025-03-14
+CUST_0061,Spencer Johnston,wsmith@example.com,27,UberOne,Midtown,2026-07-18
+CUST_0062,Tiffany Barnes,tracynelson@example.com,32,Gold,Uptown,2026-03-11
+CUST_0063,Michael Powell,marycalhoun@example.net,27,UberOne,Midtown,2024-11-10
+CUST_0064,Leslie Alvarado,dayderek@example.com,31,Bronze,Suburbs,2025-10-15
+CUST_0065,Garrett Gibson,kathleen64@example.com,18,UberOne,Suburbs,2025-02-20
+CUST_0066,Alec Ryan,jeffrey10@example.org,36,Silver,Uptown,2025-04-09
+CUST_0067,Alex Hernandez,thomaswilson@example.org,28,Silver,Uptown,2026-07-21
+CUST_0068,Jacob Obrien,stricklandfrank@example.com,26,Gold,Downtown,2025-08-30
+CUST_0069,Eric Byrd,tsanders@example.org,28,Bronze,Suburbs,2025-01-02
+CUST_0070,Lori Garcia,melissa91@example.net,37,Silver,Downtown,2024-12-11
+CUST_0071,Jeffrey Wood,alexander67@example.org,36,Silver,University Zone,2026-03-31
+CUST_0072,Steven Stevens,ryangross@example.net,22,Bronze,Downtown,2025-08-08
+CUST_0073,Kimberly Webb,lpetersen@example.com,34,Bronze,Uptown,2025-04-21
+CUST_0074,Timothy Ramirez,dsanchez@example.net,31,Silver,Downtown,2025-05-26
+CUST_0075,Allen Rosales,tonykelly@example.com,41,Silver,University Zone,2025-12-05
+CUST_0076,Meredith Hill,blackjames@example.org,65,Silver,Uptown,2025-06-07
+CUST_0077,Peter Vaughn DDS,bwest@example.org,18,Silver,Downtown,2026-02-17
+CUST_0078,David Beck,thomas85@example.com,26,Bronze,University Zone,2025-05-07
+CUST_0079,Heather Chavez,john13@example.com,62,Gold,Downtown,2026-08-21
+CUST_0080,Pamela Lopez,joannahill@example.net,34,UberOne,University Zone,2025-01-10
+CUST_0081,Diane Garcia,kennethward@example.com,41,Silver,University Zone,2026-08-08
+CUST_0082,Denise Mccann,heidi27@example.org,31,UberOne,Downtown,2024-10-31
+CUST_0083,Julie Alexander,tammyking@example.com,56,UberOne,Suburbs,2026-05-30
+CUST_0084,John Ray,hernandezlisa@example.com,50,Bronze,University Zone,2025-01-06
+CUST_0085,Justin Butler,kimberlyjames@example.com,28,Silver,Midtown,2024-12-18
+CUST_0086,Jessica Carroll,lynchjody@example.org,26,Silver,Midtown,2025-05-09
+CUST_0087,Brad Allen,moorericky@example.net,41,Bronze,Uptown,2025-12-15
+CUST_0088,David Mann,ojones@example.com,24,Bronze,Midtown,2025-11-24
+CUST_0089,Mary Peck,owilson@example.net,43,Silver,University Zone,2026-04-03
+CUST_0090,Charles Brown,brooke94@example.com,45,Bronze,Midtown,2025-01-29
+CUST_0091,Melissa Bender,mkim@example.org,38,UberOne,Midtown,2025-01-13
+CUST_0092,Lindsey Johnson,suzannehuff@example.net,37,Bronze,Suburbs,2026-06-10
+CUST_0093,Phillip Underwood,hinesgregory@example.net,40,Silver,Suburbs,2025-11-19
+CUST_0094,Catherine Richards,ecosta@example.com,46,Gold,Suburbs,2026-01-02
+CUST_0095,Brian Martin,ssteele@example.net,19,Silver,Uptown,2025-07-23
+CUST_0096,Krista Gibson,johnny16@example.net,55,Silver,University Zone,2026-07-18
+CUST_0097,Sean Murray,lopezmichael@example.com,36,Bronze,Midtown,2026-04-28
+CUST_0098,Christina Dunn,samuel71@example.org,36,Gold,Uptown,2025-12-15
+CUST_0099,Cynthia Moore,tranchristopher@example.org,35,Gold,Suburbs,2026-08-05
+CUST_0100,Ronnie Jimenez,william46@example.com,24,UberOne,Suburbs,2025-08-27
+CUST_0101,Juan Reyes,michellehill@example.com,31,Bronze,Uptown,2026-08-10
+CUST_0102,Debra Smith,mary97@example.org,39,Silver,Suburbs,2025-06-07
+CUST_0103,Mr. Phillip Bennett,molly39@example.com,21,Silver,Midtown,2025-08-17
+CUST_0104,Amanda Garner,qhughes@example.net,18,Bronze,University Zone,2025-03-27
+CUST_0105,Andrew Shaw MD,sawyerscott@example.net,33,Silver,Downtown,2026-08-11
+CUST_0106,Charles Pitts,charlesharrington@example.com,27,Bronze,Downtown,2026-06-24
+CUST_0107,Marie Christian,ofinley@example.net,19,Bronze,Downtown,2025-06-06
+CUST_0108,Joshua Williamson II,wendy16@example.org,31,Silver,University Zone,2026-06-09
+CUST_0109,Ashlee Jackson,rebecca05@example.org,37,Silver,University Zone,2026-03-16
+CUST_0110,Charles Schmidt,georgemiller@example.com,57,Silver,Uptown,2025-05-06
+CUST_0111,Thomas Thomas,dlittle@example.com,27,Gold,Downtown,2025-12-11
+CUST_0112,Julie Roberts,charleslandry@example.net,22,Bronze,Suburbs,2026-01-12
+CUST_0113,Melissa Bryant,james67@example.org,39,Silver,Midtown,2025-05-10
+CUST_0114,Laura Haney,andrew64@example.org,42,Gold,University Zone,2025-03-30
+CUST_0115,Natasha Williams,swall@example.org,22,Bronze,Midtown,2025-11-05
+CUST_0116,Mark Oliver,courtneyberger@example.net,33,Silver,University Zone,2025-12-03
+CUST_0117,Amanda Diaz,christopherphillips@example.net,31,Bronze,Uptown,2024-11-17
+CUST_0118,Richard Walter,alyssa42@example.com,40,Silver,Downtown,2025-07-27
+CUST_0119,Tracy Phillips,linda71@example.org,54,Silver,Midtown,2026-06-27
+CUST_0120,Michael Craig,zcoffey@example.net,39,Bronze,Uptown,2026-03-12
+CUST_0121,Alexis Herrera,vrichardson@example.net,41,Silver,Downtown,2025-06-24
+CUST_0122,Mark Watson,thomasharvey@example.net,45,Silver,Uptown,2025-04-15
+CUST_0123,Maria Reid,tblankenship@example.net,39,Gold,Midtown,2025-05-30
+CUST_0124,Tracy Torres,pwilson@example.net,46,Bronze,University Zone,2025-07-22
+CUST_0125,Michael Paul,umatthews@example.org,30,Bronze,Midtown,2025-01-21
+CUST_0126,Sandra Gilbert,antonio53@example.com,37,Silver,Midtown,2026-06-08
+CUST_0127,Jack Pollard,amy50@example.com,34,Silver,Midtown,2025-08-16
+CUST_0128,Tiffany Holloway,batesdarlene@example.net,18,Silver,University Zone,2025-04-25
+CUST_0129,Gavin Zhang,caseyhubbard@example.org,34,UberOne,Suburbs,2026-08-04
+CUST_0130,Crystal Schroeder,ramireztracey@example.org,29,Bronze,Downtown,2025-11-19
+CUST_0131,Ashley Delacruz,alexistyler@example.org,53,Silver,Suburbs,2025-10-19
+CUST_0132,Derek Martinez,vfox@example.org,51,Bronze,University Zone,2025-11-21
+CUST_0133,Kayla Rodriguez,soniawilliams@example.net,42,Silver,Uptown,2025-09-06
+CUST_0134,Victor Brown,bboone@example.net,23,Bronze,Downtown,2025-10-06
+CUST_0135,Jill Lam,charlene12@example.com,31,Bronze,University Zone,2025-01-02
+CUST_0136,Michelle James,shawn96@example.org,67,Gold,Downtown,2025-12-14
+CUST_0137,Matthew Rich,russellbeasley@example.com,30,UberOne,Suburbs,2026-04-07
+CUST_0138,Jason Davis,qedwards@example.com,44,Silver,University Zone,2025-06-06
+CUST_0139,Kara Davis,daviscolin@example.net,37,Silver,University Zone,2026-07-23
+CUST_0140,Anthony Frye,elizabeth65@example.net,26,Gold,Downtown,2025-06-29
+CUST_0141,Thomas Williams,caroline51@example.net,53,UberOne,Downtown,2026-07-15
+CUST_0142,John Boone,megan51@example.com,39,Gold,Suburbs,2025-09-27
+CUST_0143,Sarah Villegas,lynchdiane@example.net,35,Bronze,Midtown,2025-11-11
+CUST_0144,Michael Parker,michael22@example.net,35,Bronze,Uptown,2025-04-19
+CUST_0145,Patrick Bonilla,reesejason@example.com,30,Bronze,Uptown,2026-01-06
+CUST_0146,Eric Nguyen,wareeric@example.net,37,Silver,University Zone,2025-08-22
+CUST_0147,Jeremy Coleman,nperry@example.net,46,UberOne,Downtown,2024-11-24
+CUST_0148,Douglas Gregory,trose@example.org,30,Silver,Suburbs,2025-01-06
+CUST_0149,Mrs. Christine Dougherty,kathrynroberts@example.org,27,Gold,Uptown,2025-03-18
+CUST_0150,Casey James,vincentwhitaker@example.com,32,Bronze,Uptown,2024-10-27
+CUST_0151,Amanda Smith,atkinsbarbara@example.net,34,Bronze,Suburbs,2024-12-09
+CUST_0152,Donna Sullivan,george97@example.net,24,Silver,Suburbs,2025-07-20
+CUST_0153,Ryan Sanchez,zwarren@example.com,47,Silver,Downtown,2026-07-01
+CUST_0154,Richard Jones,schmidtjames@example.com,42,Bronze,Downtown,2026-03-06
+CUST_0155,Maria Hernandez,thomasjames@example.net,35,Bronze,Midtown,2025-06-14
+CUST_0156,Angela Bean,kmarshall@example.net,26,Bronze,University Zone,2025-02-01
+CUST_0157,Kristy Reid,michelle52@example.com,37,Bronze,Uptown,2025-08-19
+CUST_0158,Eric Hill,bellcharles@example.com,35,Silver,Downtown,2024-12-06
+CUST_0159,Ronald Jones,gilbertwilliam@example.com,57,Silver,Downtown,2025-08-21
+CUST_0160,Nancy Williams,marcalvarez@example.org,39,Silver,Uptown,2025-11-15
+CUST_0161,Robert Monroe,wagnergerald@example.org,33,Silver,Midtown,2026-07-26
+CUST_0162,Kelly Bishop MD,paul59@example.org,44,Bronze,Midtown,2026-02-08
+CUST_0163,Andrea Davis,umitchell@example.net,21,Bronze,University Zone,2026-04-04
+CUST_0164,Brittany Miller,sabrinacollins@example.net,29,UberOne,Uptown,2026-07-31
+CUST_0165,Kurt Hurley,angelica52@example.net,38,Bronze,Suburbs,2026-02-02
+CUST_0166,Yolanda Gaines,lucasrodney@example.com,53,Silver,University Zone,2026-02-05
+CUST_0167,Trevor Peterson,ilee@example.org,33,Silver,Downtown,2024-11-03
+CUST_0168,Ashley Wise,stanleynancy@example.net,41,Bronze,Midtown,2024-12-12
+CUST_0169,Christopher Guerra,jenniferwilliams@example.com,22,Bronze,Downtown,2025-01-17
+CUST_0170,Jeremy Mitchell,pyoung@example.com,36,Silver,Downtown,2026-01-18
+CUST_0171,Stephanie Lee,smurray@example.com,48,Bronze,Uptown,2026-07-31
+CUST_0172,Christopher Gonzalez,moniquewilliams@example.com,28,Gold,University Zone,2025-09-24
+CUST_0173,Ashley Singleton,mitchellkathryn@example.com,37,Silver,University Zone,2026-05-31
+CUST_0174,Sandra Davis,lisawilkerson@example.org,30,UberOne,University Zone,2025-08-19
+CUST_0175,James Hughes,brooksanthony@example.org,50,Gold,Uptown,2025-07-27
+CUST_0176,Raven Taylor,samantha72@example.net,41,Bronze,Downtown,2026-05-08
+CUST_0177,Susan Smith,marydunn@example.net,21,Silver,Midtown,2025-09-01
+CUST_0178,Ricardo Young,williamsrobert@example.net,40,Bronze,Midtown,2025-12-04
+CUST_0179,Taylor Carlson,chenbailey@example.net,18,Gold,Midtown,2025-08-24
+CUST_0180,Lucas Allen,qlopez@example.org,32,Gold,Suburbs,2025-01-26
+CUST_0181,Troy Stephens,myerstheodore@example.net,45,Bronze,University Zone,2025-10-08
+CUST_0182,Paul Kelly,cooperjessica@example.net,36,Silver,Midtown,2025-07-08
+CUST_0183,Nicole Anderson,amy27@example.net,37,Silver,Midtown,2024-12-30
+CUST_0184,Chad Baldwin,mjohnson@example.org,35,Bronze,Uptown,2025-09-08
+CUST_0185,Emily Collins,ihays@example.com,37,Silver,Downtown,2026-04-05
+CUST_0186,Cheryl Kelly,glennmartin@example.org,30,Gold,Suburbs,2025-04-09
+CUST_0187,James Gonzales,lmorgan@example.com,37,Silver,University Zone,2026-04-11
+CUST_0188,Robert Adams,acostachristian@example.net,18,Bronze,Downtown,2026-01-29
+CUST_0189,Edward Garcia,donna47@example.net,18,Silver,Midtown,2026-08-20
+CUST_0190,Jeremy West,christina64@example.net,34,Silver,Midtown,2026-02-15
+CUST_0191,Angela Walsh,william20@example.org,46,Bronze,Uptown,2026-08-10
+CUST_0192,Jessica Martinez,kimberlydiaz@example.com,20,Silver,Uptown,2026-05-14
+CUST_0193,Christian Cole,nathan19@example.org,38,Bronze,Downtown,2026-07-21
+CUST_0194,Matthew Wright,johnsonjacob@example.net,25,Gold,Uptown,2025-10-12
+CUST_0195,Deborah Green,nlewis@example.com,39,Silver,Uptown,2025-07-08
+CUST_0196,Mrs. Brandy Jones MD,zosborn@example.net,35,Bronze,University Zone,2026-01-30
+CUST_0197,Miss Michelle Pierce,patricia22@example.com,22,Bronze,Downtown,2026-08-02
+CUST_0198,Curtis Taylor,jjohnson@example.net,21,Silver,Suburbs,2025-09-28
+CUST_0199,Kristen Salazar,jonesraymond@example.net,29,Silver,University Zone,2025-06-26
+CUST_0200,Patricia Morrow,martinezlogan@example.org,23,Bronze,Midtown,2026-02-16
+CUST_0201,Haley Humphrey,katrinaanderson@example.net,40,Bronze,Uptown,2025-08-19
+CUST_0202,Caleb Hernandez,fernandodonovan@example.org,47,UberOne,University Zone,2026-06-25
+CUST_0203,Stephanie Singleton,james84@example.org,36,UberOne,Midtown,2025-06-11
+CUST_0204,Anna Davidson,georgeweber@example.net,27,Gold,Midtown,2025-12-15
+CUST_0205,Amanda Shields,williamsdarlene@example.net,43,Gold,Uptown,2025-06-05
+CUST_0206,Kenneth Montgomery,jimenezcourtney@example.com,25,Silver,University Zone,2025-04-17
+CUST_0207,David Aguirre,eevans@example.net,31,Bronze,Downtown,2025-12-26
+CUST_0208,John Harris,larryhiggins@example.net,44,Silver,Suburbs,2024-12-01
+CUST_0209,James Hodges,floressteven@example.com,28,Bronze,Downtown,2026-08-15
+CUST_0210,Anthony Dougherty,kwright@example.com,24,Bronze,Downtown,2025-08-19
+CUST_0211,Cheryl Moore,tjimenez@example.com,45,Silver,Suburbs,2026-07-10
+CUST_0212,Kathy Levy,brandywilliams@example.com,41,Silver,Midtown,2024-11-06
+CUST_0213,Martha Ruiz,booneryan@example.com,55,Silver,Midtown,2025-09-19
+CUST_0214,Holly Morales,michaelroberts@example.com,48,Bronze,Suburbs,2026-02-22
+CUST_0215,Diana Hays,andersoncolin@example.com,44,Bronze,University Zone,2025-09-25
+CUST_0216,Todd Fischer,carriemorales@example.org,54,Bronze,Downtown,2026-04-08
+CUST_0217,Gary Wells,ghernandez@example.org,31,Bronze,Suburbs,2024-11-21
+CUST_0218,Carla Ewing,brittney88@example.net,32,Gold,Downtown,2025-05-30
+CUST_0219,Karen Smith,emily69@example.com,35,Bronze,Suburbs,2025-09-15
+CUST_0220,Melissa Johnson,pbaker@example.net,26,UberOne,Midtown,2026-04-09
+CUST_0221,Lauren Jackson,rhernandez@example.org,42,Bronze,Downtown,2025-11-13
+CUST_0222,Ashley Smith,robert63@example.com,36,Silver,Uptown,2024-11-12
+CUST_0223,Kaitlyn Charles,thorntonapril@example.net,40,Silver,Midtown,2025-09-23
+CUST_0224,Kelly Edwards,stevepatel@example.net,43,Bronze,Suburbs,2025-05-28
+CUST_0225,Michelle Schneider,chelsea33@example.com,25,Silver,Suburbs,2025-06-16
+CUST_0226,William Evans,janet75@example.com,41,Bronze,Midtown,2025-10-31
+CUST_0227,Rebecca Hill,berryamy@example.com,32,Silver,Suburbs,2025-06-13
+CUST_0228,Regina Roberts,stephanie15@example.com,36,Bronze,Uptown,2026-04-24
+CUST_0229,Cindy Clayton,sarah42@example.org,33,Bronze,Midtown,2026-01-05
+CUST_0230,Dana Santiago,danawilliams@example.com,30,UberOne,University Zone,2025-12-09
+CUST_0231,Michael Taylor,richarddonovan@example.com,29,Bronze,Downtown,2025-05-31
+CUST_0232,Victor Morris,velezchristopher@example.net,37,Gold,Uptown,2025-09-07
+CUST_0233,Sarah Johnson,robertmonroe@example.org,58,Gold,Downtown,2025-03-26
+CUST_0234,Jon Zuniga,nancy04@example.net,28,Gold,Suburbs,2026-08-22
+CUST_0235,Frances Gibson,ismall@example.net,36,Bronze,Uptown,2025-11-30
+CUST_0236,Brian Martin,twong@example.org,35,UberOne,Suburbs,2025-09-01
+CUST_0237,Edward Craig,gregorychase@example.com,33,Gold,Suburbs,2024-10-31
+CUST_0238,Angie Caldwell,tinawoods@example.org,36,Bronze,University Zone,2026-04-29
+CUST_0239,Jeremy Adams,kevin90@example.com,29,Silver,Suburbs,2024-10-26
+CUST_0240,Amy Wilson,erik84@example.net,28,Bronze,Midtown,2026-01-03
+CUST_0241,Elizabeth Mendez,susanmendoza@example.com,47,Bronze,Uptown,2025-01-08
+CUST_0242,Jennifer Dunn,ztodd@example.net,30,Silver,Downtown,2026-03-07
+CUST_0243,Melanie Larson,foxallison@example.com,35,Bronze,Downtown,2026-04-28
+CUST_0244,Amy Kelley,ashleyhernandez@example.com,51,Bronze,Midtown,2024-12-13
+CUST_0245,Michael Love,gdavis@example.com,43,Silver,Uptown,2026-05-18
+CUST_0246,Jose Bryant,hansenemily@example.com,35,Bronze,Uptown,2026-04-17
+CUST_0247,Robert Reese,williamsmelvin@example.org,20,Bronze,University Zone,2026-02-19
+CUST_0248,Steven Andersen,ajohnson@example.org,46,Silver,Uptown,2025-10-20
+CUST_0249,Veronica Brewer,ybrooks@example.com,30,Bronze,University Zone,2026-03-21
+CUST_0250,Jaime Vega,desireebailey@example.org,39,Gold,Downtown,2026-05-28
+CUST_0251,Cameron Irwin,avilatiffany@example.com,35,Gold,Uptown,2026-08-19
+CUST_0252,Kim Morrow,stevenmoore@example.org,30,Gold,University Zone,2026-01-16
+CUST_0253,Ashley Pacheco,bmendez@example.org,32,Gold,University Zone,2026-07-13
+CUST_0254,Andrew Harper,sanchezbradley@example.com,25,Silver,Suburbs,2025-03-09
+CUST_0255,Scott Brown,jim95@example.net,44,Silver,Uptown,2025-03-28
+CUST_0256,Erica Turner,valerieboyd@example.com,44,Silver,Midtown,2025-11-27
+CUST_0257,Travis Hobbs,conniesimmons@example.com,27,Bronze,Midtown,2025-05-11
+CUST_0258,Mason James,heather62@example.com,22,Bronze,Midtown,2024-11-22
+CUST_0259,Kara Atkinson,meredith27@example.org,36,Silver,Suburbs,2025-07-01
+CUST_0260,Kristin Anderson,jonathanrivera@example.org,61,Silver,Suburbs,2025-11-03
+CUST_0261,Anna Hardy,brettbennett@example.net,52,UberOne,Midtown,2026-07-02
+CUST_0262,Chelsea Gill,timothybooth@example.com,40,Gold,Midtown,2025-11-30
+CUST_0263,Christy Lee,burgesskaren@example.org,28,Bronze,Downtown,2025-05-13
+CUST_0264,Jennifer Allen,kimberly67@example.net,30,Bronze,Uptown,2026-01-31
+CUST_0265,Ian Andrade,ugarcia@example.com,18,Bronze,Downtown,2025-12-31
+CUST_0266,Dale Edwards,hartjeffrey@example.org,50,Bronze,Downtown,2026-03-17
+CUST_0267,Lauren Cortez,elijah53@example.com,43,UberOne,Midtown,2024-11-01
+CUST_0268,Juan Harding,jonathan77@example.com,18,Silver,Uptown,2025-11-08
+CUST_0269,Caroline Cortez,iwhite@example.net,31,Bronze,Suburbs,2025-02-11
+CUST_0270,Sara Jones,duranrobert@example.net,51,UberOne,Downtown,2026-07-26
+CUST_0271,Alexa Wagner,bruce97@example.net,18,UberOne,Downtown,2025-03-26
+CUST_0272,Juan Smith,amanda40@example.net,34,Gold,Uptown,2025-09-14
+CUST_0273,Renee Browning,hullalice@example.org,24,UberOne,Downtown,2026-04-20
+CUST_0274,Robin Adams,zmiller@example.com,40,Silver,Suburbs,2025-02-27
+CUST_0275,Courtney Sutton DVM,davisnicholas@example.net,21,Bronze,University Zone,2025-11-05
+CUST_0276,Michele Miller,vnewman@example.net,36,Bronze,Uptown,2025-09-06
+CUST_0277,Stephanie Ellison,jasonparrish@example.net,36,Bronze,University Zone,2026-08-08
+CUST_0278,Benjamin Frost,whitemelissa@example.org,33,Silver,University Zone,2025-09-06
+CUST_0279,Nicole Marquez,thickman@example.org,60,Bronze,Uptown,2026-07-29
+CUST_0280,Sarah Rhodes,patrick21@example.net,23,Silver,Midtown,2025-11-04
+CUST_0281,Brent Hall,petersonkayla@example.net,19,Silver,Uptown,2026-03-06
+CUST_0282,Alyssa Nelson,whenry@example.net,62,Bronze,Downtown,2025-07-15
+CUST_0283,Michael Guerrero,bartonkenneth@example.org,29,Gold,Midtown,2026-07-15
+CUST_0284,Christian Dawson,jodistewart@example.org,32,Bronze,Midtown,2026-02-12
+CUST_0285,Jill Juarez,andersonjacob@example.com,31,Bronze,Midtown,2024-12-22
+CUST_0286,Ashley Davis,carlsonkristen@example.com,34,Gold,Downtown,2025-10-30
+CUST_0287,Richard Hardy,ashleyjackson@example.com,18,Bronze,University Zone,2024-10-30
+CUST_0288,Derrick Thomas,ryanfisher@example.com,38,Silver,Downtown,2025-02-12
+CUST_0289,Tony Le,mwheeler@example.com,29,Silver,Midtown,2026-03-31
+CUST_0290,Travis Cook,vbrock@example.com,39,Gold,Uptown,2025-01-01
+CUST_0291,Shannon Mccann,kevinmorrison@example.net,32,Bronze,Midtown,2025-06-03
+CUST_0292,Vincent Novak,jessica79@example.org,24,Bronze,Downtown,2025-03-05
+CUST_0293,Richard Diaz,brittanygardner@example.net,38,Bronze,Midtown,2025-05-28
+CUST_0294,Nicholas Hahn,samuelcarter@example.net,22,UberOne,University Zone,2026-03-21
+CUST_0295,Rebecca Chambers,cynthiaallen@example.net,22,Bronze,Suburbs,2024-12-07
+CUST_0296,James Cole,iaguilar@example.net,26,Gold,University Zone,2025-02-02
+CUST_0297,Jennifer Johnson,jacqueline89@example.net,47,Bronze,Suburbs,2026-07-03
+CUST_0298,David Ortega,deborahwilliams@example.net,18,Bronze,Midtown,2026-06-27
+CUST_0299,Paul Sheppard,grodriguez@example.com,29,Gold,Uptown,2026-01-19
+CUST_0300,Kristin Watts,seanmyers@example.net,38,Gold,Downtown,2025-03-19
+CUST_0301,Haley Johnson,phillipssamantha@example.org,57,Silver,Midtown,2025-11-20
+CUST_0302,Brenda Collins,hmueller@example.com,18,Silver,Downtown,2025-01-07
+CUST_0303,Nathan Chavez,evanslisa@example.org,36,UberOne,Midtown,2025-06-12
+CUST_0304,Brian Marsh,zacharyarnold@example.com,33,UberOne,Midtown,2024-11-06
+CUST_0305,Crystal Sullivan,jacobsandoval@example.com,18,Silver,Downtown,2025-11-01
+CUST_0306,Christina Vargas,nsmith@example.org,40,Silver,Suburbs,2024-11-10
+CUST_0307,Rebecca Ray,michaelgonzalez@example.org,37,Silver,Downtown,2025-04-26
+CUST_0308,Kelsey Fowler,lcarr@example.org,44,Silver,Midtown,2025-04-16
+CUST_0309,Lisa Cervantes,samantha91@example.net,33,Bronze,Midtown,2025-06-12
+CUST_0310,Eric White,williambarnes@example.org,43,Bronze,Midtown,2025-01-19
+CUST_0311,John Medina,angelaburns@example.org,40,Bronze,Suburbs,2025-11-11
+CUST_0312,Lisa Glenn,washingtonjames@example.com,27,Gold,University Zone,2025-02-24
+CUST_0313,Kathleen Cohen,cmckinney@example.com,19,Bronze,Downtown,2026-07-30
+CUST_0314,Rebecca Walker,hillamanda@example.org,27,Silver,Uptown,2025-02-11
+CUST_0315,Patricia Simpson,armstrongjoseph@example.net,33,UberOne,University Zone,2026-03-29
+CUST_0316,Rodney Williams,bpayne@example.org,40,Silver,Midtown,2026-04-27
+CUST_0317,Danielle Golden,colemichael@example.org,29,Silver,University Zone,2026-02-27
+CUST_0318,Patricia Young PhD,michelle96@example.org,36,Bronze,Downtown,2025-08-12
+CUST_0319,Robin Trujillo,amanda98@example.org,31,Bronze,Downtown,2025-12-09
+CUST_0320,Donna Adams,taylorkaren@example.com,37,Bronze,University Zone,2025-05-27
+CUST_0321,Sharon Martinez DVM,dustinmorris@example.org,28,Bronze,Uptown,2026-06-30
+CUST_0322,Katherine Ray,courtney67@example.org,53,Bronze,Suburbs,2026-03-16
+CUST_0323,Anna Robertson,heather57@example.com,24,Silver,Uptown,2025-12-21
+CUST_0324,Raymond Oconnor,sreid@example.com,44,Bronze,Uptown,2025-05-29
+CUST_0325,Jennifer Donaldson,troymorris@example.com,34,Bronze,Uptown,2026-05-15
+CUST_0326,Kylie Washington,patricia00@example.org,41,Silver,University Zone,2025-06-05
+CUST_0327,Alexis Noble,scottsmith@example.com,43,Silver,Downtown,2025-12-16
+CUST_0328,Bonnie Santos,nancymcdowell@example.org,44,UberOne,Suburbs,2025-03-06
+CUST_0329,Jacob Mckee,brettgarrett@example.net,39,Bronze,University Zone,2026-01-04
+CUST_0330,Matthew Padilla,lewischristian@example.net,37,Silver,University Zone,2026-02-03
+CUST_0331,Alexandra Dominguez,mcneilrobert@example.org,26,Bronze,Uptown,2025-03-22
+CUST_0332,Brandon Shaffer,edwardsnicole@example.org,41,UberOne,Midtown,2025-09-07
+CUST_0333,Shelly May,caseyelliott@example.net,48,Silver,Uptown,2025-07-05
+CUST_0334,Nathan Fuller,samanthajensen@example.com,18,Silver,University Zone,2026-01-01
+CUST_0335,Brian Goodwin,bbell@example.com,37,Bronze,Suburbs,2026-05-22
+CUST_0336,Matthew Wright,kimberly04@example.org,30,Silver,Downtown,2026-04-05
+CUST_0337,Nicole Phillips,bowerslaura@example.org,55,Silver,Downtown,2025-10-04
+CUST_0338,Jonathan Wheeler,hatfieldsarah@example.org,39,Gold,Midtown,2025-09-19
+CUST_0339,Jennifer Payne,kathrynbest@example.org,32,Silver,Midtown,2025-07-08
+CUST_0340,Dennis Williams,fryraymond@example.com,44,Bronze,University Zone,2024-11-02
+CUST_0341,Jennifer Miles,davidsonamanda@example.org,42,Gold,Suburbs,2025-12-17
+CUST_0342,Jorge Harris,amandamyers@example.net,35,Bronze,Downtown,2025-04-26
+CUST_0343,Maria Collins,pblair@example.org,29,Silver,Suburbs,2026-03-18
+CUST_0344,Audrey Salazar,parkerjudith@example.net,18,UberOne,Midtown,2025-04-04
+CUST_0345,Chad Smith,hbenton@example.net,32,Silver,Downtown,2025-02-16
+CUST_0346,Carol Martinez,jessica10@example.com,28,Bronze,Uptown,2026-03-31
+CUST_0347,Austin Joseph,crawfordwilliam@example.org,18,Gold,Midtown,2026-04-16
+CUST_0348,Holly Scott,shannonemily@example.org,32,Bronze,Downtown,2025-09-22
+CUST_0349,Amanda Roy,brandoncox@example.org,39,Bronze,Downtown,2025-03-24
+CUST_0350,Amanda Pratt,pwalker@example.com,32,Bronze,Suburbs,2025-02-19
+CUST_0351,Roger Duncan,shawrachel@example.org,44,UberOne,Uptown,2026-06-28
+CUST_0352,Amber Morales,xcline@example.com,32,UberOne,Midtown,2025-03-20
+CUST_0353,Aimee Gonzalez,jodi37@example.com,46,Silver,Midtown,2025-05-29
+CUST_0354,Raymond Gonzalez DVM,edwardrandolph@example.org,51,Bronze,Downtown,2025-11-23
+CUST_0355,Ryan Wiley,aaron64@example.org,28,Gold,University Zone,2025-03-27
+CUST_0356,Mrs. Tonya Kaufman,jenniferdavis@example.org,29,Bronze,Downtown,2025-03-08
+CUST_0357,Mercedes Watson,carpenterwilliam@example.net,60,Silver,Uptown,2026-06-16
+CUST_0358,Keith Graham,joelgreen@example.com,39,Bronze,Midtown,2026-04-25
+CUST_0359,Ronnie Nguyen,enelson@example.org,36,Gold,Uptown,2026-07-05
+CUST_0360,Ashley Garcia,aowens@example.org,34,Bronze,University Zone,2025-01-21
+CUST_0361,Christine Parker,melissa12@example.net,58,Silver,Midtown,2025-10-16
+CUST_0362,Lindsey Lewis,eddie35@example.com,44,Silver,Uptown,2025-05-14
+CUST_0363,Debbie Ewing,cranemelissa@example.net,33,Bronze,Midtown,2025-10-01
+CUST_0364,Joel Lara,davidbrown@example.org,18,Gold,Downtown,2026-03-07
+CUST_0365,Jacqueline Mccoy,aguilarjonathan@example.org,40,Silver,Midtown,2025-01-17
+CUST_0366,Steven Ramos,christopherboone@example.com,32,Bronze,Uptown,2024-11-05
+CUST_0367,Amber Glass,zunderwood@example.com,34,Bronze,Suburbs,2025-01-12
+CUST_0368,Carrie Lewis,joshuagriffin@example.org,52,Bronze,Suburbs,2024-11-10
+CUST_0369,Danielle Phillips,eandrade@example.org,18,Silver,Midtown,2024-11-14
+CUST_0370,Jason Day,crystalpham@example.org,26,Silver,Midtown,2024-12-19
+CUST_0371,Heather Stephens,kcooper@example.net,46,Silver,Uptown,2026-08-16
+CUST_0372,Alexander Harper,huangkimberly@example.org,36,Gold,Suburbs,2025-05-25
+CUST_0373,Hunter Silva,terrigarcia@example.net,43,Silver,Midtown,2026-04-17
+CUST_0374,Raven Mclaughlin,barbaramcgrath@example.com,40,Bronze,Uptown,2025-04-01
+CUST_0375,Sarah Thompson,linda59@example.org,28,Gold,Midtown,2025-06-17
+CUST_0376,Keith Thomas,marycochran@example.com,39,Silver,Midtown,2026-02-06
+CUST_0377,Andrew Brown,andrewwoods@example.com,31,Silver,Midtown,2025-10-20
+CUST_0378,Carlos Love,brian29@example.net,26,Gold,University Zone,2026-06-29
+CUST_0379,Sarah Valencia,brookssheri@example.com,32,Bronze,Uptown,2026-06-29
+CUST_0380,Frank Daugherty,fconner@example.net,35,UberOne,Downtown,2025-11-19
+CUST_0381,Kristina Preston,jeffrey92@example.com,32,Bronze,University Zone,2025-05-22
+CUST_0382,Bethany Daniel,xrosales@example.net,26,Gold,Uptown,2025-05-15
+CUST_0383,Tammy Ponce,daniellegarcia@example.com,37,UberOne,Suburbs,2024-11-12
+CUST_0384,Cynthia Haas,daisymccarty@example.net,50,Silver,University Zone,2025-01-24
+CUST_0385,Gabriela Smith,johnjones@example.com,30,Bronze,Downtown,2026-01-14
+CUST_0386,Amber Kim,acosta@example.com,36,Gold,Downtown,2026-04-03
+CUST_0387,James Poole,franciscojones@example.org,18,Silver,Uptown,2026-06-05
+CUST_0388,Trevor Jones,pamelamartin@example.org,44,Gold,University Zone,2025-05-07
+CUST_0389,Anna Wheeler,bbush@example.net,55,Silver,Suburbs,2025-10-24
+CUST_0390,Brooke Garcia,terriortiz@example.net,27,Bronze,Uptown,2025-02-09
+CUST_0391,Deborah Campbell,codylong@example.net,30,Gold,Uptown,2026-02-18
+CUST_0392,Isaac Patterson,madison97@example.org,46,Silver,Midtown,2026-05-08
+CUST_0393,Mark Rowland,tanthony@example.com,33,UberOne,Uptown,2024-12-26
+CUST_0394,Deborah May,ylopez@example.com,22,Silver,University Zone,2025-09-03
+CUST_0395,Jeremiah Baker,anne21@example.org,24,Bronze,Suburbs,2025-02-24
+CUST_0396,Jennifer Avila,angelarandall@example.net,42,Silver,Uptown,2026-01-13
+CUST_0397,Sharon Wells,thomasmiller@example.net,18,Bronze,Midtown,2025-07-29
+CUST_0398,Kellie Duncan,davidtodd@example.org,29,Bronze,Downtown,2024-11-14
+CUST_0399,Daniel Lee,hendersonvanessa@example.com,22,Gold,Uptown,2026-07-20
+CUST_0400,Brittany Larson,renee11@example.com,49,UberOne,Downtown,2025-03-06
+CUST_0401,Shannon Stone,buchanancindy@example.net,38,Gold,Midtown,2025-10-30
+CUST_0402,Chase Knight,buckleyanna@example.org,39,Gold,Uptown,2026-03-30
+CUST_0403,Sheryl Humphrey,patrick79@example.net,28,UberOne,Midtown,2026-04-02
+CUST_0404,Jamie Montgomery,vwilliams@example.net,44,Silver,Downtown,2025-09-04
+CUST_0405,Tammie Prince,morganlaura@example.com,20,Silver,Downtown,2025-03-30
+CUST_0406,Michael Garcia PhD,kevinmanning@example.com,41,Bronze,University Zone,2025-04-28
+CUST_0407,Matthew Lopez,robinrussell@example.com,43,Bronze,University Zone,2025-04-20
+CUST_0408,Samantha Robertson,cameronmckinney@example.com,28,Bronze,University Zone,2026-03-15
+CUST_0409,Sherry Johnson,nancygonzalez@example.org,33,Silver,Uptown,2025-01-21
+CUST_0410,Thomas Bush,micheal78@example.com,28,Silver,Downtown,2025-04-07
+CUST_0411,Andre Watson,ethompson@example.net,44,Bronze,Suburbs,2025-12-22
+CUST_0412,Ryan Green,mitchellpaul@example.org,43,UberOne,Suburbs,2025-10-26
+CUST_0413,Cindy Walker,ericaadams@example.com,40,Bronze,Suburbs,2026-05-17
+CUST_0414,Tracy Fleming,pbuck@example.org,52,Bronze,Downtown,2025-10-01
+CUST_0415,David Trujillo,jennifer46@example.com,32,Bronze,Suburbs,2025-11-29
+CUST_0416,Daniel Turner,asilva@example.net,28,Bronze,Midtown,2026-05-16
+CUST_0417,Sara Hoffman,kenneth17@example.org,44,Bronze,Suburbs,2026-08-23
+CUST_0418,Frederick Hill,jacob83@example.org,40,Bronze,Uptown,2025-06-04
+CUST_0419,Lindsay Guerrero,jenniferrios@example.com,52,Silver,Downtown,2026-04-15
+CUST_0420,James Johnson,matthewreeves@example.net,48,Silver,Midtown,2025-04-14
+CUST_0421,Susan Powers,megan82@example.com,47,Silver,Uptown,2025-10-15
+CUST_0422,David Stokes,staceylam@example.net,40,Gold,Suburbs,2024-12-26
+CUST_0423,Patrick Parker,nathan94@example.com,48,Silver,Downtown,2024-12-20
+CUST_0424,Sean Silva,kennedyjames@example.org,39,Bronze,Uptown,2026-05-16
+CUST_0425,Edwin Brown,derrickgonzalez@example.com,41,Silver,Downtown,2026-05-27
+CUST_0426,Victoria Thomas,kimberlyfreeman@example.net,50,Gold,Midtown,2026-08-15
+CUST_0427,Anthony Hayes,kathleenjackson@example.org,31,Silver,University Zone,2026-08-15
+CUST_0428,Anita Mendez,epowell@example.com,18,Gold,Uptown,2025-09-15
+CUST_0429,Monica Dodson,katherine83@example.org,21,Silver,Uptown,2024-10-25
+CUST_0430,Danielle Steele,larry16@example.net,46,Silver,Midtown,2026-01-19
+CUST_0431,Rodney Evans,stephen89@example.net,21,Bronze,Downtown,2025-11-20
+CUST_0432,Whitney Cooper,mhoward@example.org,30,Gold,Downtown,2025-06-05
+CUST_0433,Jennifer Perez,jasonjohnson@example.net,38,Silver,Suburbs,2026-07-20
+CUST_0434,Matthew Johnson,kelsey90@example.net,41,Silver,Suburbs,2025-02-12
+CUST_0435,Martha Smith,butleromar@example.net,19,Silver,Suburbs,2026-08-20
+CUST_0436,Christine Jennings,turnerdorothy@example.net,55,Gold,Midtown,2025-04-09
+CUST_0437,Mercedes Barnes,huntchristine@example.com,40,UberOne,Midtown,2025-10-06
+CUST_0438,Craig Gonzalez,marie35@example.net,46,UberOne,Suburbs,2025-01-06
+CUST_0439,Joshua Lozano,arivera@example.org,28,Gold,Downtown,2025-07-23
+CUST_0440,Sara Caldwell,stacychan@example.org,18,Bronze,Suburbs,2026-01-15
+CUST_0441,David Hall,joseph01@example.org,38,Silver,Suburbs,2026-02-19
+CUST_0442,Heather Rhodes,grodgers@example.org,32,Bronze,Downtown,2026-05-31
+CUST_0443,Matthew Murphy,rfriedman@example.net,28,Silver,Downtown,2024-10-28
+CUST_0444,Catherine Morales,ynelson@example.net,37,UberOne,Midtown,2024-12-23
+CUST_0445,Mariah Robles,andersonjessica@example.org,52,Bronze,Uptown,2026-05-15
+CUST_0446,Karen Carroll,ywhite@example.com,50,Gold,Midtown,2024-12-30
+CUST_0447,Sheryl Acosta,timothyfreeman@example.com,54,Bronze,University Zone,2025-12-06
+CUST_0448,Matthew Smith,tiffanysantiago@example.com,29,Bronze,Uptown,2025-08-13
+CUST_0449,Lisa Reynolds,timothyalvarado@example.net,22,Silver,University Zone,2025-10-05
+CUST_0450,Kristin Huerta,smithsarah@example.net,19,Silver,Downtown,2025-07-07
+CUST_0451,Sheila Jones,vflores@example.com,38,Silver,Suburbs,2026-05-14
+CUST_0452,Mason Powell,christianwallace@example.net,39,Silver,Suburbs,2024-11-24
+CUST_0453,Jillian Wilson,bmcgee@example.org,34,Silver,Suburbs,2025-08-18
+CUST_0454,Joshua Petersen,pamela83@example.net,34,Bronze,Downtown,2025-07-19
+CUST_0455,Heidi Brown,meganrivera@example.net,33,UberOne,University Zone,2026-01-15
+CUST_0456,Heidi Chavez,malonejeffrey@example.com,24,Bronze,Uptown,2025-11-28
+CUST_0457,Rebecca Kelley,jacqueline02@example.com,44,Silver,Uptown,2025-06-17
+CUST_0458,Mikayla Rodriguez,jacobconrad@example.com,38,Silver,Suburbs,2025-01-24
+CUST_0459,Cheryl Morgan,owilliams@example.net,24,Bronze,Suburbs,2025-03-15
+CUST_0460,Joanna Barrett,tamarasmith@example.net,35,Silver,Midtown,2025-11-21
+CUST_0461,Sara Webb,heatherthompson@example.org,27,Bronze,University Zone,2024-11-23
+CUST_0462,Lisa Morris,mbarnes@example.net,40,Bronze,University Zone,2024-12-30
+CUST_0463,Victor Waller,iballard@example.com,33,Bronze,Midtown,2026-03-17
+CUST_0464,Kayla Cameron,jennifer83@example.org,34,Gold,Downtown,2025-11-30
+CUST_0465,Melissa Morse,tinasantos@example.org,46,Bronze,University Zone,2025-03-11
+CUST_0466,Erica Wilson,anna99@example.net,46,Silver,Downtown,2025-09-25
+CUST_0467,Stephanie Ferguson,hstokes@example.org,38,UberOne,Downtown,2026-02-10
+CUST_0468,Michael Gonzalez,tonyavega@example.org,27,Gold,Downtown,2024-11-07
+CUST_0469,Elizabeth Molina,howardshaun@example.net,38,Silver,Downtown,2026-05-08
+CUST_0470,Sharon Newton,yyoung@example.net,39,Bronze,Midtown,2026-05-27
+CUST_0471,Tammy Hughes,tammy00@example.net,18,Silver,Midtown,2025-05-03
+CUST_0472,Priscilla Berg,rhondabush@example.net,25,Gold,Downtown,2025-04-08
+CUST_0473,Nancy Gonzalez,kellythompson@example.net,42,Bronze,Downtown,2025-06-25
+CUST_0474,Nancy Wilson,pattersonangela@example.org,31,Bronze,Downtown,2024-12-10
+CUST_0475,Abigail Owens,billmcfarland@example.net,22,Silver,Suburbs,2025-02-06
+CUST_0476,Lisa Stanley,jtyler@example.com,18,Silver,Downtown,2024-11-25
+CUST_0477,Kelly Krueger,hartmanerik@example.net,28,Bronze,Midtown,2024-12-09
+CUST_0478,Daniel Lewis,mark43@example.net,21,Silver,Midtown,2025-10-17
+CUST_0479,Samantha Zavala MD,sean99@example.org,35,Silver,Midtown,2025-10-12
+CUST_0480,Erica Moon,cruzamber@example.com,51,Silver,University Zone,2026-07-27
+CUST_0481,Patricia Robertson,stucker@example.net,35,Bronze,Suburbs,2024-11-07
+CUST_0482,Tiffany Jackson,simsjason@example.net,23,Silver,Midtown,2025-02-28
+CUST_0483,Jessica Garcia,elucas@example.net,36,Gold,Uptown,2026-03-25
+CUST_0484,Mitchell Johnson,brownlaura@example.net,53,Bronze,University Zone,2026-01-25
+CUST_0485,Susan Russell,bmccoy@example.com,32,UberOne,Suburbs,2024-12-08
+CUST_0486,Kimberly May,avilabrenda@example.net,38,UberOne,Uptown,2024-11-02
+CUST_0487,Jonathan Roberts,catherine47@example.com,34,Bronze,Suburbs,2026-05-14
+CUST_0488,Kara Ferguson,julierobles@example.net,25,Silver,University Zone,2025-07-14
+CUST_0489,Elizabeth Eaton,susan08@example.net,36,Bronze,Suburbs,2025-05-07
+CUST_0490,Kenneth Long,torreskaitlin@example.net,48,Silver,Midtown,2025-01-24
+CUST_0491,Matthew Hunt,jackjensen@example.com,28,Bronze,Uptown,2025-06-09
+CUST_0492,Robert Phelps,enewman@example.com,19,Bronze,Suburbs,2025-03-01
+CUST_0493,Craig Carpenter,michael31@example.com,36,Silver,Downtown,2026-01-15
+CUST_0494,Emily Hayes,heather29@example.net,21,Silver,Midtown,2025-12-11
+CUST_0495,Jeffrey Smith,kristenjoseph@example.net,33,Bronze,Downtown,2025-06-23
+CUST_0496,Brandy Quinn,wford@example.com,42,Bronze,University Zone,2025-08-10
+CUST_0497,Matthew Miller,michele28@example.org,39,Silver,University Zone,2025-09-13
+CUST_0498,Angela Jones,atkinsoncrystal@example.net,36,Gold,Downtown,2025-04-16
+CUST_0499,Christy Johnson,amy87@example.net,40,Bronze,Downtown,2025-11-14
+CUST_0500,Daniel Barton,dennis88@example.org,46,Gold,Downtown,2026-03-26
+CUST_0501,Mary Charles,katherinetaylor@example.org,42,Bronze,Uptown,2025-07-15
+CUST_0502,Mary Faulkner,ccrosby@example.org,27,Gold,Midtown,2025-02-19
+CUST_0503,Dennis Young,aprilmoody@example.com,40,Bronze,Midtown,2026-03-16
+CUST_0504,Anthony Hooper,dakota84@example.net,41,Bronze,Downtown,2025-09-02
+CUST_0505,Carrie Valdez,briana18@example.com,41,Bronze,Downtown,2025-04-16
+CUST_0506,Kelli Gomez,tommy79@example.org,39,Bronze,University Zone,2025-07-01
+CUST_0507,Christopher Jones,jason22@example.com,47,Silver,Midtown,2025-09-23
+CUST_0508,Mary Perry,jennifer77@example.com,51,Bronze,University Zone,2025-11-29
+CUST_0509,Roy Johnson,andersonbrittany@example.org,34,UberOne,Uptown,2025-03-12
+CUST_0510,Kenneth Brown,sandra86@example.net,60,Silver,Midtown,2025-12-18
+CUST_0511,Sherry Luna,stacey37@example.net,20,Silver,Downtown,2026-08-03
+CUST_0512,Carolyn Greer,laurahoover@example.org,18,Bronze,Suburbs,2026-08-19
+CUST_0513,Carol Jennings,ecarlson@example.org,38,Bronze,University Zone,2025-12-14
+CUST_0514,Alan Mills,mserrano@example.org,47,Bronze,University Zone,2025-07-02
+CUST_0515,Linda Rich,davisdonna@example.net,23,Bronze,Suburbs,2025-02-18
+CUST_0516,Todd Gregory,xboyd@example.org,27,Bronze,Suburbs,2025-10-18
+CUST_0517,Todd Olson,zbell@example.net,37,Gold,Midtown,2026-02-02
+CUST_0518,Laura Coleman,thomas31@example.com,19,Silver,Suburbs,2026-06-23
+CUST_0519,Deanna Smith,lanedavid@example.org,23,Silver,Suburbs,2025-11-27
+CUST_0520,Robert Ortiz,mooredenise@example.com,22,Silver,Downtown,2025-06-30
+CUST_0521,Krystal Carr,afischer@example.net,34,Bronze,Suburbs,2025-04-15
+CUST_0522,Mr. Justin King,becky62@example.net,36,Bronze,University Zone,2026-03-31
+CUST_0523,Richard Avery,lewisrichard@example.com,40,Bronze,Midtown,2025-01-09
+CUST_0524,Melinda Williams,aoconnell@example.org,25,Bronze,Downtown,2026-04-12
+CUST_0525,Kyle Davis,jeffrey19@example.org,18,Bronze,Uptown,2026-04-27
+CUST_0526,Jennifer Douglas,jennifer90@example.org,30,Bronze,University Zone,2026-02-20
+CUST_0527,Dakota Sandoval,james98@example.net,43,Bronze,University Zone,2025-12-25
+CUST_0528,Megan Ward,cantrellchristopher@example.com,42,Bronze,Midtown,2026-02-02
+CUST_0529,James Willis,mclaughlincasey@example.org,39,Silver,Suburbs,2026-03-29
+CUST_0530,Kristin Aguilar,sylvia43@example.net,38,Gold,Midtown,2025-10-25
+CUST_0531,Jared Smith,richardrodriguez@example.org,28,Bronze,Midtown,2026-07-30
+CUST_0532,Bruce Palmer,nancy94@example.net,23,UberOne,Downtown,2025-09-24
+CUST_0533,John Sanchez,susan77@example.net,48,Bronze,Midtown,2025-08-15
+CUST_0534,Mr. James Kramer,ericahall@example.com,35,Silver,Uptown,2026-05-23
+CUST_0535,Joseph Haynes,john16@example.net,38,Silver,Suburbs,2025-07-25
+CUST_0536,Justin White,michael94@example.org,49,Bronze,Downtown,2026-03-08
+CUST_0537,Susan Porter,jimmyallen@example.com,35,Bronze,Midtown,2026-07-19
+CUST_0538,David Montgomery,kimberlywilson@example.org,34,Gold,Uptown,2025-03-09
+CUST_0539,Lisa Duran,charlesnathan@example.com,28,Bronze,University Zone,2026-01-18
+CUST_0540,Dr. Sheila Henry,raymond92@example.org,44,Bronze,Uptown,2025-09-17
+CUST_0541,Todd Johnson,phillip27@example.org,24,UberOne,Midtown,2025-10-09
+CUST_0542,Michael Smith,nicolasgarcia@example.com,48,Gold,Downtown,2026-02-02
+CUST_0543,Joshua Young,vmullen@example.com,18,Silver,Downtown,2025-12-07
+CUST_0544,Jason Goodwin,melissa47@example.org,32,Silver,University Zone,2025-02-22
+CUST_0545,Melissa Olsen,linda86@example.com,37,Gold,University Zone,2025-11-09
+CUST_0546,Nancy Kennedy,thompsonvictor@example.net,33,Bronze,University Zone,2025-03-02
+CUST_0547,Rachel Evans,rosshannah@example.org,35,UberOne,Suburbs,2025-10-03
+CUST_0548,Ryan Davis,jordan58@example.net,40,Bronze,Suburbs,2025-03-15
+CUST_0549,Alejandro Martinez,barbarasantos@example.net,25,Silver,University Zone,2026-07-09
+CUST_0550,Heather Nunez,champton@example.org,33,Bronze,Midtown,2025-02-16
+CUST_0551,Mark Thomas,daniellemcfarland@example.com,25,Bronze,Uptown,2025-07-04
+CUST_0552,Sarah Jones,matthewedwards@example.net,39,Bronze,Downtown,2025-12-19
+CUST_0553,Matthew Nelson,xnorman@example.net,36,UberOne,Uptown,2025-05-05
+CUST_0554,Jennifer White,martinezjimmy@example.com,31,Bronze,University Zone,2025-11-19
+CUST_0555,Angela Jackson,davissharon@example.com,31,Bronze,Suburbs,2026-07-15
+CUST_0556,James Hubbard,garciachristine@example.org,27,Silver,Suburbs,2025-10-24
+CUST_0557,Ellen Wright,scott22@example.net,19,Silver,Suburbs,2026-01-04
+CUST_0558,Matthew Dalton,michelle78@example.com,44,Gold,Midtown,2026-05-07
+CUST_0559,Travis Ryan,owelch@example.net,21,Bronze,Suburbs,2025-10-25
+CUST_0560,Kimberly Stout,zfernandez@example.org,32,Silver,University Zone,2025-08-09
+CUST_0561,David Torres,millskatherine@example.org,39,Bronze,Uptown,2025-08-14
+CUST_0562,Adam Weeks,xevans@example.com,33,Bronze,University Zone,2025-06-09
+CUST_0563,Rebecca Kelley,robertcastro@example.com,29,Silver,Downtown,2026-04-10
+CUST_0564,Maria Clayton,josehenderson@example.org,38,Bronze,Midtown,2025-04-07
+CUST_0565,Lisa Benson,justin84@example.com,25,Silver,University Zone,2025-10-03
+CUST_0566,Chad Rodriguez,rwilliamson@example.net,34,Gold,University Zone,2025-02-25
+CUST_0567,Alec Williams,lopezcurtis@example.com,23,Bronze,Suburbs,2025-12-13
+CUST_0568,Adam Davis,snydermatthew@example.com,34,Silver,Uptown,2025-01-13
+CUST_0569,Mr. Michael Johnson Jr.,brianrowe@example.org,21,Silver,University Zone,2026-04-02
+CUST_0570,Steven Wright,hclayton@example.net,18,UberOne,Downtown,2025-10-21
+CUST_0571,Jessica Rojas,gonzalezjill@example.org,46,Bronze,University Zone,2025-04-07
+CUST_0572,Mrs. Melanie Collins,eric08@example.net,23,Bronze,Midtown,2025-10-06
+CUST_0573,Mr. Isaac Williams,teresayoung@example.com,56,Silver,Uptown,2025-01-11
+CUST_0574,Donald Wilson,albertwilliams@example.net,28,Silver,Downtown,2025-05-27
+CUST_0575,Jacqueline Davis,vincentparks@example.com,28,Silver,Uptown,2025-09-05
+CUST_0576,Lori Brown DDS,martinezjesse@example.net,36,Bronze,Suburbs,2026-07-08
+CUST_0577,Renee Gonzales,andrewgray@example.net,55,Bronze,Downtown,2026-04-04
+CUST_0578,Karina Kim,amy73@example.net,36,Silver,Downtown,2025-01-20
+CUST_0579,Nicholas Hill,caseymoore@example.com,26,Bronze,Uptown,2025-02-24
+CUST_0580,Jordan Parsons,bgross@example.net,47,UberOne,Uptown,2026-04-24
+CUST_0581,Cynthia Le,rlee@example.com,24,Bronze,University Zone,2026-05-19
+CUST_0582,Douglas Ortiz,daniel81@example.org,40,Silver,Midtown,2026-03-19
+CUST_0583,Shane Harris,clee@example.net,41,Bronze,Midtown,2026-05-05
+CUST_0584,John Hanson,brandon39@example.net,48,Bronze,Suburbs,2025-12-26
+CUST_0585,Christine Henry,mcdonalddanielle@example.com,48,Silver,Midtown,2024-12-08
+CUST_0586,Jennifer Wood,colonjoseph@example.org,40,Silver,Midtown,2025-10-31
+CUST_0587,Angela Lewis,garciajerry@example.com,27,Silver,Midtown,2026-02-26
+CUST_0588,Danielle Garrett,angelagrant@example.net,31,Silver,University Zone,2025-02-26
+CUST_0589,Heather Ellis,kandrade@example.org,35,Silver,Midtown,2024-12-31
+CUST_0590,Mary Ferguson,umahoney@example.net,43,Bronze,Downtown,2025-10-26
+CUST_0591,Jacob Duran,umckenzie@example.net,24,Bronze,Downtown,2026-08-18
+CUST_0592,Jaime Pierce,michael77@example.com,18,Bronze,Suburbs,2025-04-01
+CUST_0593,Duane Smith,victoriaturner@example.com,30,Bronze,Downtown,2024-10-22
+CUST_0594,Ethan Ingram,samantha88@example.net,31,Silver,Uptown,2026-08-13
+CUST_0595,Andrew Kelly,josephpreston@example.org,22,Gold,Suburbs,2026-07-05
+CUST_0596,Anna Ross,jessicacummings@example.com,46,UberOne,Midtown,2025-03-27
+CUST_0597,Melissa Johnston,larsonkevin@example.net,22,UberOne,Suburbs,2025-02-15
+CUST_0598,Richard Weeks,michael66@example.org,41,Bronze,Uptown,2026-04-17
+CUST_0599,Matthew Guzman,walterscrystal@example.org,37,Silver,Midtown,2026-05-28
+CUST_0600,Joshua Hernandez,ericnunez@example.com,18,Bronze,Suburbs,2025-05-14
+CUST_0601,Laura Davis,zroberts@example.org,29,Silver,Suburbs,2026-08-04
+CUST_0602,Kenneth Williams,zbaker@example.net,40,Silver,Uptown,2025-01-18
+CUST_0603,Pamela Castillo,tonypearson@example.org,43,Silver,Uptown,2025-08-09
+CUST_0604,Kelly Allen MD,kmorris@example.org,43,Bronze,Suburbs,2025-11-02
+CUST_0605,Jacob Lee,brittney04@example.org,47,Bronze,Midtown,2025-01-05
+CUST_0606,Wanda Ramos,scottglass@example.org,41,Silver,Downtown,2026-08-15
+CUST_0607,Peter Farrell,singhjohn@example.net,40,Bronze,Uptown,2025-03-04
+CUST_0608,Samantha Smith,torresthomas@example.com,38,Bronze,Midtown,2026-07-05
+CUST_0609,Christina Mills,ana92@example.net,22,Silver,Uptown,2025-03-11
+CUST_0610,Kevin Alvarado,scottbrian@example.org,45,Bronze,Downtown,2026-02-02
+CUST_0611,Amy Pena,jonesdonna@example.net,41,Silver,Midtown,2026-04-04
+CUST_0612,Sharon Smith,yhall@example.net,18,Gold,Suburbs,2026-05-16
+CUST_0613,Ethan Delacruz,lopezvincent@example.com,27,UberOne,Downtown,2026-08-08
+CUST_0614,Amanda Nielsen,matthew62@example.org,41,Silver,Uptown,2025-11-02
+CUST_0615,Mario Young,lisa46@example.org,33,Silver,Midtown,2025-06-11
+CUST_0616,Courtney Peterson,fsandoval@example.net,47,Bronze,University Zone,2026-07-17
+CUST_0617,Lisa Garrett,robertberry@example.com,47,Bronze,Midtown,2025-07-05
+CUST_0618,Erin Daniels,denisecarpenter@example.net,41,Bronze,University Zone,2026-08-04
+CUST_0619,Ellen Thornton,russellstout@example.org,30,Bronze,Suburbs,2026-04-11
+CUST_0620,Brooke Jones,whitemary@example.org,23,Silver,Uptown,2026-01-05
+CUST_0621,Sheryl Gutierrez,vturner@example.net,36,Silver,Suburbs,2026-02-21
+CUST_0622,Richard Rodriguez,anthonyodom@example.net,28,Bronze,Midtown,2026-07-10
+CUST_0623,Crystal Hall,howardhailey@example.com,51,Bronze,Uptown,2025-04-19
+CUST_0624,Julie Banks,melissahenry@example.org,50,Silver,Uptown,2025-01-19
+CUST_0625,Jason Novak,stephanie33@example.org,33,Gold,University Zone,2025-02-08
+CUST_0626,Victoria Camacho,dwatts@example.org,30,Gold,Uptown,2024-12-05
+CUST_0627,Lisa Holloway,phillip99@example.net,23,Bronze,Downtown,2025-08-04
+CUST_0628,Rachel Meyer,cbryant@example.org,33,Bronze,Suburbs,2025-10-09
+CUST_0629,Nicholas Grant,leescott@example.com,42,Bronze,Downtown,2025-10-05
+CUST_0630,Christopher Phillips,vaughnrebecca@example.com,43,Bronze,Suburbs,2026-03-25
+CUST_0631,Nathan Wilson,phillipmorris@example.org,21,Silver,Suburbs,2026-05-01
+CUST_0632,Michelle Harris,udavis@example.net,34,Bronze,Downtown,2025-02-19
+CUST_0633,Carly Quinn,wilsonshannon@example.com,38,Bronze,Uptown,2025-12-31
+CUST_0634,Monica Hester,nicholasjames@example.org,35,Bronze,University Zone,2024-12-18
+CUST_0635,Mary Hernandez,haroldjoseph@example.com,39,Gold,Uptown,2026-06-26
+CUST_0636,Tonya Roberts,davidanderson@example.org,36,Bronze,Midtown,2025-05-16
+CUST_0637,Alexandria Jimenez,astephens@example.net,40,Silver,University Zone,2024-10-24
+CUST_0638,Kevin Alvarez,mramos@example.net,29,Silver,Midtown,2026-06-06
+CUST_0639,Diana Fuller,brandonhernandez@example.net,37,Silver,Downtown,2024-10-26
+CUST_0640,Andrew Lane,mark10@example.org,31,Gold,Suburbs,2025-06-13
+CUST_0641,Michael Carr,tammycurry@example.com,28,Silver,Suburbs,2025-07-28
+CUST_0642,Edwin Richardson,wwilkins@example.com,39,Bronze,Suburbs,2026-07-09
+CUST_0643,John Martinez,mark68@example.org,38,Bronze,Suburbs,2026-05-10
+CUST_0644,Ashley Blair,webbhaley@example.net,36,Bronze,Suburbs,2026-01-31
+CUST_0645,Emily Fox,sara99@example.com,25,Gold,Midtown,2025-05-02
+CUST_0646,Katherine White,jeanettekrause@example.org,25,Bronze,Midtown,2025-10-05
+CUST_0647,Robert Mclaughlin,laurenduarte@example.com,30,Bronze,Suburbs,2025-01-09
+CUST_0648,Robert Lewis,hannahking@example.org,42,Bronze,Suburbs,2024-11-21
+CUST_0649,Erica Smith,matthew99@example.org,45,Bronze,Midtown,2025-05-16
+CUST_0650,Roy Nielsen,zhendricks@example.org,55,Bronze,Midtown,2026-05-03
+CUST_0651,Mr. Steven Herrera,steven60@example.net,38,Bronze,University Zone,2025-12-29
+CUST_0652,Emily Herrera,barbararivera@example.com,51,Bronze,Suburbs,2025-05-10
+CUST_0653,Ryan Morgan,ksims@example.net,40,Silver,University Zone,2024-12-05
+CUST_0654,Bruce Patton,janet50@example.com,47,Bronze,Uptown,2025-12-02
+CUST_0655,David Hayes DVM,aliciathompson@example.com,26,Bronze,Uptown,2025-07-26
+CUST_0656,Susan Wallace,lloydrebecca@example.org,41,UberOne,Suburbs,2026-04-01
+CUST_0657,Morgan Mills,douglas18@example.net,26,Bronze,Suburbs,2025-02-26
+CUST_0658,Andrew Hughes,smithsarah@example.net,31,Bronze,Downtown,2026-08-19
+CUST_0659,Felicia Small,meyerdonna@example.com,37,Silver,University Zone,2026-05-14
+CUST_0660,Margaret Clark,jameshill@example.com,46,Bronze,Suburbs,2024-11-06
+CUST_0661,Denise Moore,smithcindy@example.net,32,Silver,Downtown,2026-03-24
+CUST_0662,Kirsten Nelson,audrey21@example.com,36,Silver,Midtown,2024-12-29
+CUST_0663,Jeremy Anderson,dberger@example.org,22,UberOne,Downtown,2025-12-07
+CUST_0664,James Bush,tjensen@example.com,34,Silver,Midtown,2025-07-06
+CUST_0665,Megan Ferguson,fbradley@example.net,33,Silver,Suburbs,2026-04-23
+CUST_0666,Michael Mckinney,oruiz@example.org,46,Bronze,Suburbs,2025-09-01
+CUST_0667,Susan Myers,kristina57@example.com,35,Gold,Downtown,2026-05-22
+CUST_0668,Gregory Murray,justinbailey@example.net,34,Bronze,University Zone,2024-11-11
+CUST_0669,Robert Robles,angela14@example.net,30,Gold,University Zone,2025-01-15
+CUST_0670,Cynthia Sanchez,terrireyes@example.com,25,Silver,Suburbs,2025-08-27
+CUST_0671,Jessica Baird,amy32@example.net,31,Silver,Midtown,2025-03-10
+CUST_0672,Michelle Copeland,vargassteven@example.net,40,Gold,Downtown,2026-01-14
+CUST_0673,Eric Sullivan,jenningscandace@example.com,43,Silver,Suburbs,2024-12-26
+CUST_0674,Amy Robinson,paigeberger@example.net,34,Gold,Suburbs,2025-05-29
+CUST_0675,Mary Chavez,peter97@example.org,18,Bronze,University Zone,2026-04-18
+CUST_0676,Elizabeth Bauer,samantha65@example.org,24,UberOne,Suburbs,2025-03-08
+CUST_0677,Kayla Abbott,bryan80@example.org,18,Gold,Suburbs,2025-11-17
+CUST_0678,Heather Callahan,youngjacqueline@example.com,37,Bronze,Downtown,2026-02-05
+CUST_0679,Jennifer Graham,elainewells@example.org,42,Silver,Midtown,2025-12-15
+CUST_0680,Heather Butler,whitney22@example.org,33,Bronze,Suburbs,2025-10-29
+CUST_0681,Nathan Tucker,iproctor@example.org,38,Bronze,Uptown,2024-12-09
+CUST_0682,Shannon English,dhanson@example.net,23,Bronze,Downtown,2025-01-22
+CUST_0683,Janice Perez,kjacobs@example.com,30,Bronze,Suburbs,2025-08-02
+CUST_0684,Jonathan Jenkins,arthur09@example.com,35,Gold,University Zone,2026-05-13
+CUST_0685,John Vaughn,jessicafox@example.com,55,Bronze,Downtown,2026-02-06
+CUST_0686,Steve Davis,qmccoy@example.net,24,Gold,Downtown,2025-08-29
+CUST_0687,Rebecca Edwards,bergeramanda@example.org,37,Silver,University Zone,2024-12-13
+CUST_0688,Julie Gross,zgomez@example.com,34,Bronze,Suburbs,2025-09-01
+CUST_0689,Thomas Curry,bryan79@example.org,33,Bronze,Uptown,2025-05-04
+CUST_0690,Dorothy Mclaughlin,mitchellchristopher@example.net,44,Silver,Uptown,2025-11-10
+CUST_0691,Darlene Gilbert,michaela01@example.net,52,Gold,University Zone,2024-12-12
+CUST_0692,Brittany Griffin,josehaynes@example.com,37,UberOne,Suburbs,2025-02-16
+CUST_0693,Amanda Riggs,caitlinunderwood@example.com,37,Silver,Uptown,2025-02-20
+CUST_0694,James Guerrero,jasonnavarro@example.com,38,Gold,Downtown,2026-03-11
+CUST_0695,Robert Williams,tross@example.com,48,Silver,University Zone,2024-11-27
+CUST_0696,Kim James,jwells@example.net,33,Bronze,Uptown,2026-03-06
+CUST_0697,Timothy Cole,suzanne01@example.net,35,Bronze,Suburbs,2026-05-28
+CUST_0698,Jessica Hull,matthew41@example.com,45,Gold,Downtown,2025-12-23
+CUST_0699,Raymond Curry,aprilbyrd@example.org,29,Bronze,Midtown,2026-01-04
+CUST_0700,Adam Jones,gdavis@example.net,30,Silver,Downtown,2025-05-20
+CUST_0701,Douglas Lee,harveybrian@example.net,54,Silver,Suburbs,2025-08-17
+CUST_0702,Tiffany Little,millercassandra@example.com,18,Silver,Uptown,2026-01-05
+CUST_0703,Kylie Coffey,dominguezjon@example.com,25,Silver,Midtown,2026-01-05
+CUST_0704,Jesse Carney,qschwartz@example.com,38,Bronze,Suburbs,2026-01-08
+CUST_0705,Destiny Brown,dcook@example.com,25,Silver,Downtown,2025-04-12
+CUST_0706,Jeremiah Vasquez,chelseywhite@example.com,40,Gold,Uptown,2026-07-25
+CUST_0707,Jessica Mendez,gainesjennifer@example.org,36,Bronze,University Zone,2025-01-02
+CUST_0708,Nicholas Waters,mosleyeduardo@example.net,54,Bronze,University Zone,2024-11-14
+CUST_0709,James Hernandez,rebecca90@example.net,49,UberOne,Downtown,2024-10-22
+CUST_0710,Karen Powell,fernandezaaron@example.net,29,Gold,Uptown,2026-02-08
+CUST_0711,Mr. Timothy Howard,richard15@example.net,43,Bronze,Uptown,2026-04-23
+CUST_0712,Ryan Hodges,deborah28@example.org,38,Bronze,Suburbs,2026-05-17
+CUST_0713,Elizabeth Price,mccoymichael@example.org,25,Bronze,Uptown,2026-08-02
+CUST_0714,Collin Johnson,cortezbrittany@example.com,31,Bronze,Downtown,2026-06-07
+CUST_0715,Maria Porter,blevy@example.org,30,UberOne,Downtown,2025-07-09
+CUST_0716,Nathan Sullivan,lindsaycontreras@example.com,34,Bronze,Uptown,2025-06-06
+CUST_0717,Kimberly Figueroa,sandyjohnson@example.org,40,Gold,University Zone,2026-07-14
+CUST_0718,Terry Montgomery,jacquelineanderson@example.org,43,UberOne,Downtown,2025-09-15
+CUST_0719,Samantha Davis,marybrown@example.org,43,Bronze,Suburbs,2025-12-20
+CUST_0720,Lisa Brown,ronaldcain@example.net,29,Bronze,University Zone,2025-01-06
+CUST_0721,William Johnston,marcoconnell@example.org,25,Bronze,Downtown,2026-01-20
+CUST_0722,Gabriela Martinez,katherinejackson@example.com,35,Silver,Downtown,2026-03-18
+CUST_0723,Timothy Williams,moodycrystal@example.com,42,Silver,Uptown,2025-10-28
+CUST_0724,John Smith,saramann@example.net,26,UberOne,Midtown,2026-03-27
+CUST_0725,Robert Barton,jamiebowman@example.net,44,Gold,University Zone,2026-06-09
+CUST_0726,Christopher Holt,jennifersalazar@example.org,52,Gold,Suburbs,2025-08-20
+CUST_0727,Hannah Smith,jamesdowns@example.org,35,Bronze,Suburbs,2025-12-16
+CUST_0728,Victoria Romero,qtownsend@example.org,46,Bronze,Suburbs,2025-12-11
+CUST_0729,Robert Jennings,kjimenez@example.net,37,Gold,Downtown,2025-04-25
+CUST_0730,Jackson Clark,matthew70@example.org,41,Bronze,Suburbs,2026-07-03
+CUST_0731,Casey Floyd,erobertson@example.org,34,Bronze,Uptown,2026-03-02
+CUST_0732,Erika Gonzalez,jerry15@example.org,43,Gold,University Zone,2026-02-18
+CUST_0733,Sheila Bennett,charlesrichards@example.org,49,Silver,Suburbs,2024-12-26
+CUST_0734,Timothy Gibson,dbrooks@example.net,32,Bronze,Suburbs,2026-06-11
+CUST_0735,Derrick Rogers,schwartzbrian@example.org,56,UberOne,Midtown,2025-03-01
+CUST_0736,Jason Wolf,oliviamunoz@example.net,33,Silver,Downtown,2025-01-04
+CUST_0737,Laura Tran,christophervincent@example.com,57,Bronze,Downtown,2026-07-23
+CUST_0738,John Ford,blairjill@example.org,36,Bronze,University Zone,2026-05-23
+CUST_0739,Daniel Pennington,robinvillanueva@example.com,28,Bronze,Suburbs,2025-04-06
+CUST_0740,John Mack,simmonsphillip@example.net,34,Silver,Downtown,2026-08-10
+CUST_0741,David Hansen,steelerichard@example.org,32,Bronze,Uptown,2026-04-26
+CUST_0742,Matthew Davis,kcaldwell@example.net,18,Bronze,Suburbs,2025-01-19
+CUST_0743,Lauren Bray,tingram@example.com,35,Bronze,Downtown,2025-08-26
+CUST_0744,Lori Padilla,daltonchad@example.net,20,Bronze,Uptown,2025-02-23
+CUST_0745,Jeffery Nelson,kristinmiller@example.com,30,Silver,University Zone,2025-06-02
+CUST_0746,Tony Leonard,rodriguezmichael@example.net,42,Silver,Midtown,2026-02-27
+CUST_0747,Matthew Bush,devonrogers@example.net,38,Bronze,University Zone,2024-11-18
+CUST_0748,Todd Carpenter,karenhodges@example.com,33,Bronze,Downtown,2025-01-06
+CUST_0749,Michael Ramirez,watsonshaun@example.net,31,Silver,Downtown,2025-06-15
+CUST_0750,Michael Gregory,shannon51@example.org,27,Bronze,Uptown,2025-10-10
+CUST_0751,Bobby Hurst,susan11@example.org,34,UberOne,University Zone,2026-06-12
+CUST_0752,Kathleen Golden,cartertara@example.net,29,Bronze,Suburbs,2025-04-25
+CUST_0753,Jason Rojas,carterbryan@example.org,40,Silver,University Zone,2026-07-09
+CUST_0754,Gabriella Lane,todd88@example.com,38,Silver,Downtown,2026-05-05
+CUST_0755,Stephanie Parker,jeremy54@example.org,30,Bronze,Downtown,2025-08-25
+CUST_0756,Tyler Montgomery,jennifermitchell@example.org,36,Silver,Midtown,2025-01-29
+CUST_0757,Mary Hernandez,darylchaney@example.net,43,Gold,Suburbs,2026-05-08
+CUST_0758,Cody Hart,wadetiffany@example.org,22,Bronze,Uptown,2025-01-14
+CUST_0759,Carla Turner,sullivanvictor@example.org,46,UberOne,Suburbs,2025-06-29
+CUST_0760,Brittney Cordova,deborah47@example.com,56,Bronze,Downtown,2026-07-19
+CUST_0761,Wendy Estrada,hmorgan@example.net,36,Silver,Midtown,2026-08-03
+CUST_0762,Michael Wilson,moralesmary@example.com,39,Gold,University Zone,2025-09-08
+CUST_0763,Lee Lee,kimberlywang@example.org,37,Gold,Suburbs,2025-06-18
+CUST_0764,Jill Powers,daughertypreston@example.com,42,Silver,University Zone,2024-11-06
+CUST_0765,Terri Kerr,raymond65@example.com,23,Bronze,Suburbs,2025-05-23
+CUST_0766,Gregory Madden,lewispamela@example.net,36,Bronze,Downtown,2025-06-29
+CUST_0767,Donna Shaffer,achandler@example.org,33,UberOne,Downtown,2026-08-19
+CUST_0768,Briana Turner,carl96@example.org,27,Bronze,Downtown,2026-05-05
+CUST_0769,Denise Thompson,wpage@example.org,43,Gold,Uptown,2024-10-26
+CUST_0770,Donna Henry,mary47@example.net,47,Bronze,Uptown,2025-03-04
+CUST_0771,Rick Moore,stephanie71@example.net,35,Gold,Suburbs,2026-03-02
+CUST_0772,Christopher Knox,anthonyhubbard@example.com,26,Bronze,Uptown,2026-01-11
+CUST_0773,Patrick Perkins,ooneill@example.net,56,Gold,Uptown,2026-08-20
+CUST_0774,Barbara Hunt,brucefrancisco@example.org,21,Silver,Midtown,2025-09-06
+CUST_0775,Michael Howard,nelsonrobert@example.com,32,Bronze,Midtown,2025-01-28
+CUST_0776,Mark Jones,katiewhite@example.org,34,Bronze,University Zone,2024-11-23
+CUST_0777,Frank Stewart,joseph51@example.net,30,Gold,Suburbs,2025-11-27
+CUST_0778,Alexandria Holmes,kimberly65@example.org,36,Bronze,Midtown,2025-11-15
+CUST_0779,Daniel Lopez,butlersabrina@example.org,48,Bronze,Uptown,2024-12-29
+CUST_0780,Karen Collins,don79@example.net,48,Bronze,Downtown,2026-04-24
+CUST_0781,Michael Johnson,walkermelissa@example.org,47,Silver,Downtown,2026-03-18
+CUST_0782,Daniel Zavala,yvazquez@example.org,36,Bronze,Downtown,2026-01-26
+CUST_0783,Nicole Williams,johnsondonna@example.net,34,Bronze,Uptown,2024-12-13
+CUST_0784,David Jones,websterkimberly@example.net,23,Silver,University Zone,2024-11-30
+CUST_0785,Cathy Bell,thomasjulie@example.com,30,Bronze,Uptown,2025-03-08
+CUST_0786,Christopher Mason,williamjones@example.net,33,Bronze,Midtown,2026-07-20
+CUST_0787,Michelle Brandt,rachelmedina@example.net,26,Silver,Midtown,2026-03-18
+CUST_0788,Jonathan Zimmerman,helen27@example.net,30,UberOne,University Zone,2024-12-27
+CUST_0789,Henry Gray,willierussell@example.com,20,Silver,Suburbs,2026-07-26
+CUST_0790,Chad Farmer,angela01@example.com,20,UberOne,Downtown,2025-01-12
+CUST_0791,Jesus Fitzgerald,aperez@example.com,33,Bronze,Suburbs,2025-09-18
+CUST_0792,Scott Jacobson,xcrosby@example.org,39,UberOne,Downtown,2026-08-13
+CUST_0793,Megan Sanders,wilsonralph@example.net,52,Gold,Uptown,2024-10-30
+CUST_0794,Timothy Levine,coxjames@example.org,57,Gold,Uptown,2025-11-22
+CUST_0795,Barbara Massey DDS,kathy99@example.com,24,Bronze,Downtown,2025-11-25
+CUST_0796,Terri Kelly,garcher@example.com,26,Silver,Suburbs,2026-03-13
+CUST_0797,Bryan Burns,courtneytaylor@example.org,41,Silver,Downtown,2025-01-28
+CUST_0798,Kathleen Johnson,patrickshelton@example.org,29,Silver,University Zone,2026-03-01
+CUST_0799,Paige Guerrero,msparks@example.com,55,Silver,Uptown,2025-05-13
+CUST_0800,Dennis Cooper PhD,cisnerosanthony@example.com,25,Gold,Uptown,2026-01-09
+CUST_0801,Jerry Farrell,cstevens@example.org,37,Silver,Midtown,2026-06-04
+CUST_0802,Elizabeth Mccarthy,tjordan@example.net,43,Silver,University Zone,2025-10-30
+CUST_0803,Laura Henry,kalvarez@example.net,35,Silver,Uptown,2025-07-10
+CUST_0804,Kevin Gray,katie45@example.org,34,Bronze,Uptown,2024-11-28
+CUST_0805,Russell Bailey,hubbardcolleen@example.com,37,Silver,Suburbs,2024-11-09
+CUST_0806,Hunter Bell,johnwong@example.net,39,Bronze,Uptown,2024-12-26
+CUST_0807,Sheila Wilson,andrewnguyen@example.com,28,Silver,Downtown,2024-12-17
+CUST_0808,Jose Fisher,dominguezbrianna@example.com,35,Gold,Suburbs,2026-01-06
+CUST_0809,Kenneth Stokes,vazquezjamie@example.com,25,Gold,Midtown,2025-07-02
+CUST_0810,Gina Mendez,tara37@example.net,35,Silver,Uptown,2025-09-24
+CUST_0811,Sara Herrera,joseph49@example.com,41,Bronze,Uptown,2026-05-13
+CUST_0812,Tina Robbins,vargasjoshua@example.net,27,UberOne,Uptown,2026-04-14
+CUST_0813,Daniel Flynn,william46@example.net,45,UberOne,Midtown,2026-04-12
+CUST_0814,James Weber,jpowers@example.org,37,Bronze,Suburbs,2025-10-19
+CUST_0815,Kelli Lopez,vlewis@example.com,33,UberOne,Suburbs,2026-06-05
+CUST_0816,Rhonda Farrell,umichael@example.net,48,Bronze,Downtown,2025-04-19
+CUST_0817,Joel Allen,megan65@example.org,40,Silver,Midtown,2024-12-01
+CUST_0818,Debra Mitchell,jonathanburke@example.com,18,Silver,University Zone,2025-12-21
+CUST_0819,Alexis Robles,steven86@example.com,57,Silver,Suburbs,2025-03-31
+CUST_0820,Christopher Taylor,kristine48@example.org,39,Gold,Uptown,2025-12-30
+CUST_0821,Nathan Casey,heathchristopher@example.net,44,Bronze,Uptown,2025-12-28
+CUST_0822,Troy Mosley,sandersmary@example.org,40,Silver,Downtown,2025-05-09
+CUST_0823,Kathryn Martinez,tyler13@example.net,28,Bronze,University Zone,2025-03-29
+CUST_0824,Erin Silva,vshaffer@example.org,36,Gold,Downtown,2025-01-12
+CUST_0825,Brian Lewis,scott49@example.org,40,Silver,Downtown,2026-07-11
+CUST_0826,Travis Stewart,pwells@example.com,39,Silver,Suburbs,2025-09-16
+CUST_0827,Heidi Baldwin,andrew90@example.net,28,Bronze,Uptown,2026-06-04
+CUST_0828,Melissa Mccormick,johnnycruz@example.net,33,Silver,University Zone,2026-01-09
+CUST_0829,Robert Martinez,miaprice@example.com,35,Bronze,Downtown,2026-07-27
+CUST_0830,Elizabeth Mayer,kennethvillarreal@example.org,41,Silver,Midtown,2026-07-06
+CUST_0831,Sherry Wang,rmccormick@example.org,33,Bronze,Midtown,2026-06-28
+CUST_0832,Kaitlin Gutierrez,jennifer12@example.net,18,Bronze,Suburbs,2026-04-27
+CUST_0833,Jason Daniel,shawn00@example.net,32,Bronze,Uptown,2025-04-15
+CUST_0834,Rachel Taylor,tgonzalez@example.com,45,Bronze,University Zone,2025-12-26
+CUST_0835,David Reeves,melaniejennings@example.com,36,Bronze,University Zone,2025-11-12
+CUST_0836,Brandi Thompson,lauren31@example.com,47,Silver,University Zone,2025-08-20
+CUST_0837,James Davenport,andrewjohnson@example.net,49,Bronze,Midtown,2025-06-25
+CUST_0838,Susan Mccann,josechristian@example.org,30,Silver,Suburbs,2025-12-30
+CUST_0839,David Davis,george91@example.org,39,Silver,Suburbs,2025-07-18
+CUST_0840,Thomas Chavez,twilson@example.org,57,Bronze,Suburbs,2026-02-16
+CUST_0841,Rachael Roberts,breyes@example.org,38,Bronze,Midtown,2025-02-26
+CUST_0842,Diane Byrd MD,bsparks@example.com,29,Bronze,Midtown,2025-11-28
+CUST_0843,Jerry Wright,emiller@example.org,25,Bronze,Downtown,2026-08-07
+CUST_0844,Jennifer Lewis,verickson@example.net,44,Bronze,Midtown,2026-05-29
+CUST_0845,Anthony Cook,thomasgomez@example.net,42,Silver,Downtown,2025-04-11
+CUST_0846,Linda Goodman,smithwilliam@example.com,44,Bronze,Midtown,2026-07-14
+CUST_0847,Jacob Donaldson,carpenterjorge@example.net,18,UberOne,University Zone,2025-05-12
+CUST_0848,John Davis,hthomas@example.com,30,UberOne,Downtown,2025-09-17
+CUST_0849,Seth Davenport,sara44@example.net,21,Gold,Suburbs,2024-11-20
+CUST_0850,Kelly Graham,leslievang@example.org,26,Silver,Midtown,2026-05-01
+CUST_0851,Mallory Gonzales,edgarhall@example.org,33,UberOne,Suburbs,2025-10-29
+CUST_0852,John Wilson,wwilliams@example.net,44,Silver,Downtown,2025-09-02
+CUST_0853,Brian Cortez,daviddavis@example.com,34,Bronze,Uptown,2025-11-02
+CUST_0854,Jordan Nelson,brandybonilla@example.net,54,Gold,Midtown,2025-02-20
+CUST_0855,Thomas Sanchez,vrhodes@example.org,30,Gold,University Zone,2026-03-20
+CUST_0856,Mrs. Jacqueline Hickman,hooderic@example.org,28,UberOne,Suburbs,2025-04-30
+CUST_0857,Karen Fuller,brooke05@example.org,38,UberOne,Downtown,2025-08-26
+CUST_0858,Erika Dennis,jasonwilliams@example.net,26,Bronze,Uptown,2026-01-05
+CUST_0859,Natasha Payne,qdavis@example.org,34,Bronze,Downtown,2025-04-29
+CUST_0860,Jennifer Smith,frankchan@example.com,25,Silver,Midtown,2025-04-01
+CUST_0861,Brittany Evans,tfitzgerald@example.net,47,Bronze,Downtown,2025-12-30
+CUST_0862,Brendan Richardson,tracymcclure@example.com,41,Bronze,University Zone,2025-11-30
+CUST_0863,Ann Henderson,christina66@example.org,38,Bronze,Downtown,2025-04-20
+CUST_0864,John Walker,sarahrose@example.net,38,Gold,Downtown,2024-11-18
+CUST_0865,Jeffrey Solomon,ievans@example.net,41,Bronze,Downtown,2025-10-09
+CUST_0866,Kelly Phillips,arnoldsamantha@example.net,42,Bronze,Suburbs,2026-06-19
+CUST_0867,Brandon Guerrero,michael91@example.net,26,Silver,University Zone,2025-01-02
+CUST_0868,Julie Hartman,awilliams@example.net,46,Silver,Downtown,2024-11-01
+CUST_0869,Jordan Santiago,matthew23@example.org,31,Bronze,Downtown,2025-05-09
+CUST_0870,Mrs. Megan Hamilton,smithdarryl@example.org,41,Gold,Midtown,2024-12-13
+CUST_0871,Jared Sandoval,nturner@example.com,25,Silver,University Zone,2026-01-05
+CUST_0872,Megan Ballard,martinezalexander@example.org,36,Bronze,Midtown,2026-01-28
+CUST_0873,Chelsea Johnson,pwong@example.org,32,Bronze,Downtown,2026-04-22
+CUST_0874,Rachel Lee,kayla27@example.com,18,UberOne,Suburbs,2025-08-10
+CUST_0875,Christian Park,cruiz@example.net,34,UberOne,Suburbs,2024-11-05
+CUST_0876,Ronald Myers,alan66@example.com,32,Bronze,Downtown,2025-04-02
+CUST_0877,Kristen Roberts,gross@example.net,45,Gold,Suburbs,2026-02-28
+CUST_0878,Susan Dillon,jenniferrice@example.com,27,UberOne,Uptown,2026-02-20
+CUST_0879,Debra Wong,nwilson@example.net,27,Bronze,Downtown,2025-11-12
+CUST_0880,Alisha Roberts,taylorkim@example.net,36,Bronze,University Zone,2025-06-11
+CUST_0881,Gina Guzman,sanderson@example.net,47,Bronze,Downtown,2025-03-18
+CUST_0882,Sandra Nunez,laura29@example.org,26,Bronze,Uptown,2026-02-11
+CUST_0883,Mary Anderson,ericvasquez@example.com,40,Gold,Uptown,2025-04-29
+CUST_0884,David Hawkins DVM,nicole52@example.org,54,Bronze,Uptown,2026-07-16
+CUST_0885,Amanda Brown,owilson@example.org,38,Bronze,University Zone,2026-04-30
+CUST_0886,Dr. Richard Hammond,paula89@example.net,46,Bronze,Suburbs,2025-11-03
+CUST_0887,Tracy Lloyd,villegaskimberly@example.net,37,UberOne,Midtown,2024-12-30
+CUST_0888,Samantha Williams,jacksondavid@example.org,40,Silver,Suburbs,2026-03-30
+CUST_0889,Edgar Alexander,goconnor@example.org,28,UberOne,Downtown,2026-06-25
+CUST_0890,Chad Allison,xmontes@example.org,34,Bronze,Suburbs,2025-12-30
+CUST_0891,Gloria Wagner,adamsjennifer@example.com,40,Bronze,Downtown,2025-04-04
+CUST_0892,Brittany Molina,icobb@example.com,35,Bronze,Midtown,2025-06-20
+CUST_0893,Jimmy Phelps,sherry72@example.org,31,Silver,Midtown,2025-07-26
+CUST_0894,Andrea Morgan,kholden@example.com,31,Bronze,Uptown,2026-02-15
+CUST_0895,Mary May,levinetina@example.net,38,Silver,Suburbs,2024-12-02
+CUST_0896,Jennifer Blackwell,jennifer55@example.org,31,Silver,Downtown,2026-06-01
+CUST_0897,Lisa Thomas,ngriffin@example.net,41,Bronze,Suburbs,2026-04-29
+CUST_0898,Jessica Reed,trowe@example.org,32,Silver,Downtown,2025-12-14
+CUST_0899,Neil Singh,abigailfernandez@example.org,46,UberOne,Suburbs,2024-11-15
+CUST_0900,Kelly Sherman,andrewzamora@example.net,46,Silver,Uptown,2024-12-23
+CUST_0901,Raymond Barber,dennismckenzie@example.com,33,Bronze,Midtown,2025-11-23
+CUST_0902,Anthony Curtis,westashley@example.org,29,Bronze,University Zone,2025-12-16
+CUST_0903,Dr. Virginia Cunningham,michaelmitchell@example.net,41,Gold,Midtown,2025-08-22
+CUST_0904,James Mclaughlin,murphybrandi@example.com,36,Bronze,Uptown,2025-11-10
+CUST_0905,Jeffery Jenkins,brownpamela@example.com,32,Bronze,Uptown,2025-08-22
+CUST_0906,Michael Powell,lwiggins@example.com,22,Silver,Downtown,2025-03-15
+CUST_0907,Melissa Gould PhD,jcolon@example.net,30,UberOne,Suburbs,2025-12-23
+CUST_0908,Beverly Bush,bensonstanley@example.org,40,UberOne,Uptown,2025-01-15
+CUST_0909,Jaclyn Crane,xrodriguez@example.net,35,Bronze,Downtown,2026-03-06
+CUST_0910,Autumn Torres,kevin70@example.org,38,UberOne,Midtown,2025-05-04
+CUST_0911,Amber Shannon,jason70@example.org,39,Gold,University Zone,2025-01-25
+CUST_0912,Andrew Olson,ariel56@example.com,35,Gold,Suburbs,2025-10-24
+CUST_0913,Brandi Taylor,qgill@example.com,42,Silver,Uptown,2026-05-04
+CUST_0914,Ann Weber,zhughes@example.com,22,UberOne,Midtown,2025-01-29
+CUST_0915,Stacy Fitzgerald,clinejasmine@example.net,34,Bronze,Midtown,2025-10-20
+CUST_0916,Ellen Brewer,leechristine@example.net,50,Gold,Suburbs,2025-12-18
+CUST_0917,Kelly Christensen,martinezsharon@example.org,22,Bronze,Midtown,2026-03-14
+CUST_0918,Daniel Gallegos,imiller@example.net,41,Silver,Uptown,2026-07-29
+CUST_0919,Katherine Peck,samuel60@example.net,26,Bronze,Suburbs,2025-05-25
+CUST_0920,Brian Garcia,justinwhite@example.org,26,Silver,Midtown,2025-05-22
+CUST_0921,Meghan Brown,howard04@example.com,69,Silver,Uptown,2025-02-02
+CUST_0922,Steven Scott,williamsjohn@example.net,20,Bronze,University Zone,2024-12-27
+CUST_0923,Paul Cruz Jr.,floresangela@example.org,18,Silver,University Zone,2025-11-19
+CUST_0924,David Mercado,angela91@example.org,30,Bronze,Suburbs,2025-09-11
+CUST_0925,Beth Carroll,omiller@example.net,18,Gold,Downtown,2026-03-17
+CUST_0926,Jacqueline Galloway,amandahenderson@example.net,51,Bronze,University Zone,2025-03-07
+CUST_0927,John Calderon,denise20@example.org,39,Bronze,Downtown,2025-08-21
+CUST_0928,Mr. Ryan James,megan39@example.net,41,Bronze,Midtown,2026-07-10
+CUST_0929,Joseph Jones,fosterdavid@example.org,24,Bronze,Uptown,2025-04-28
+CUST_0930,Dr. Christine Wagner PhD,cynthia74@example.org,42,Silver,University Zone,2026-02-20
+CUST_0931,Daniel Haley,allen20@example.net,51,Bronze,Suburbs,2026-01-09
+CUST_0932,Megan Gutierrez,ifarmer@example.org,36,Bronze,Midtown,2025-09-06
+CUST_0933,Angela Johnson,wchambers@example.com,33,Gold,Midtown,2026-04-03
+CUST_0934,Christopher Tate,martinezmitchell@example.org,44,Gold,Midtown,2026-04-30
+CUST_0935,Alejandro Campbell,james94@example.net,39,Bronze,Uptown,2025-08-16
+CUST_0936,Tracy Johnson,tconway@example.net,21,Silver,Suburbs,2025-03-19
+CUST_0937,Roberto Foster,ashley72@example.net,21,Bronze,Uptown,2025-03-11
+CUST_0938,Megan Morrison,cameronanderson@example.org,48,Silver,Uptown,2025-03-01
+CUST_0939,Savannah Ibarra,james08@example.net,28,Gold,Midtown,2025-01-15
+CUST_0940,Jordan Pace,nashmarcus@example.com,47,Gold,University Zone,2025-04-09
+CUST_0941,Julie Ward,stephensonjeffrey@example.com,29,Bronze,University Zone,2025-04-23
+CUST_0942,Emily Myers,christopher90@example.net,18,Gold,Downtown,2026-06-30
+CUST_0943,Tina Stark,frankcollins@example.net,28,Bronze,Downtown,2025-03-22
+CUST_0944,Jeffrey Johnson,mary31@example.com,36,UberOne,University Zone,2025-12-15
+CUST_0945,Anthony Cook,sherryparsons@example.net,24,Bronze,Suburbs,2025-03-30
+CUST_0946,Jeremy Martinez,rangelnicholas@example.net,27,UberOne,Uptown,2025-08-12
+CUST_0947,Thomas Ramos,cheryl61@example.org,47,Gold,Midtown,2024-12-04
+CUST_0948,Elizabeth James,williamsonrobert@example.net,43,Bronze,University Zone,2026-01-19
+CUST_0949,Jody Marshall,nhobbs@example.org,43,Bronze,Uptown,2026-04-03
+CUST_0950,Rachel Gibson,briana11@example.org,40,UberOne,Suburbs,2025-06-06
+CUST_0951,Richard Lee,danascott@example.com,49,Silver,Uptown,2025-11-25
+CUST_0952,Charlene Taylor,brownlarry@example.com,18,Bronze,Midtown,2025-09-10
+CUST_0953,Heather Silva,dylanparker@example.com,26,Gold,Downtown,2025-10-01
+CUST_0954,Kelly Sandoval,brianhunter@example.net,40,Bronze,Midtown,2025-05-05
+CUST_0955,Craig Gonzalez,kristenpeterson@example.net,18,UberOne,Downtown,2026-05-21
+CUST_0956,Julie Schwartz,christina65@example.org,32,Bronze,University Zone,2025-09-06
+CUST_0957,Susan Crawford,fowlerheather@example.com,35,Silver,Suburbs,2024-12-31
+CUST_0958,Nicholas Cisneros,lindsay63@example.com,25,UberOne,Midtown,2025-12-14
+CUST_0959,Heidi Jones MD,thomasscott@example.net,45,Silver,Downtown,2025-02-22
+CUST_0960,Amanda Johnson,justinrobinson@example.com,44,Bronze,Midtown,2025-11-18
+CUST_0961,Julian White,thompsonjose@example.org,41,Bronze,Uptown,2026-02-16
+CUST_0962,Jamie Cobb,morganjason@example.com,39,Bronze,Downtown,2024-11-05
+CUST_0963,Mary Pugh,ejohns@example.org,22,UberOne,Uptown,2025-04-01
+CUST_0964,Rebecca Lee,ubenson@example.net,22,Bronze,Downtown,2025-01-26
+CUST_0965,Tammy Hines,melissaphillips@example.org,39,UberOne,Downtown,2025-08-06
+CUST_0966,Robert Salas,fclark@example.com,51,Bronze,Midtown,2025-05-29
+CUST_0967,Carol Hughes,victor72@example.com,39,Silver,Midtown,2026-04-05
+CUST_0968,Karen Sosa,zadams@example.net,29,Bronze,Uptown,2026-02-12
+CUST_0969,Amanda Robinson,shannonyoung@example.org,19,Silver,Uptown,2026-07-02
+CUST_0970,Laura Walls,jonathan12@example.org,31,Silver,Downtown,2025-05-15
+CUST_0971,Crystal Williams,ronald76@example.com,53,Gold,University Zone,2025-05-07
+CUST_0972,Mr. Alexander Alexander III,howardchristopher@example.net,35,UberOne,Uptown,2025-06-25
+CUST_0973,Rachel House,wilsonmichael@example.net,36,Silver,Suburbs,2025-10-01
+CUST_0974,Gary Turner,james92@example.net,37,Bronze,Uptown,2025-03-05
+CUST_0975,Alexa Evans,krista66@example.net,27,Bronze,Uptown,2026-03-02
+CUST_0976,Matthew Hays,michelleperez@example.net,35,Gold,Uptown,2026-03-14
+CUST_0977,Jose Hartman,dsharp@example.com,21,Bronze,Downtown,2026-03-08
+CUST_0978,Cole Carrillo,cclark@example.net,41,Silver,University Zone,2026-04-06
+CUST_0979,Shane Torres,porterdonna@example.com,24,Silver,Downtown,2024-11-11
+CUST_0980,Michael Powell,mark09@example.org,21,Bronze,Suburbs,2025-06-07
+CUST_0981,Troy Rivera,nbaird@example.com,28,Gold,Midtown,2026-07-02
+CUST_0982,John Murphy,tfowler@example.org,33,Bronze,Uptown,2024-12-03
+CUST_0983,Cassandra Serrano,mjohnson@example.org,29,Bronze,Suburbs,2025-02-14
+CUST_0984,Daniel Carter,gibsonmiguel@example.org,37,UberOne,Suburbs,2026-06-25
+CUST_0985,Jennifer Moore,andersonrobert@example.net,46,Bronze,Uptown,2025-02-14
+CUST_0986,Sharon Anderson,kylemeyers@example.net,49,Gold,University Zone,2024-12-07
+CUST_0987,Teresa Matthews,ahill@example.org,32,Bronze,Midtown,2025-09-05
+CUST_0988,Lisa Wright,renee77@example.com,29,UberOne,Midtown,2025-08-17
+CUST_0989,Donna Ibarra,treed@example.com,39,Bronze,Midtown,2025-11-12
+CUST_0990,Sarah Perry,rachelquinn@example.com,34,Bronze,Downtown,2025-07-11
+CUST_0991,Melissa Davis,allenmonica@example.com,43,Bronze,Uptown,2025-07-07
+CUST_0992,Mary Jones,reginajenkins@example.net,45,Silver,Uptown,2026-06-06
+CUST_0993,Pedro Gordon,robert24@example.org,38,Silver,Midtown,2025-01-11
+CUST_0994,Benjamin Neal,vjames@example.com,59,Bronze,Midtown,2025-09-26
+CUST_0995,Adam Wilson,markgoodman@example.com,26,Silver,Uptown,2026-05-19
+CUST_0996,Matthew Reeves,rtaylor@example.org,39,Bronze,Suburbs,2025-08-27
+CUST_0997,Brian Phillips,qjackson@example.org,29,Silver,Suburbs,2025-02-13
+CUST_0998,Hunter Robinson,staffordamanda@example.com,32,Bronze,Midtown,2026-01-19
+CUST_0999,Robin Davidson,myerskyle@example.org,46,Silver,Downtown,2026-02-01
+CUST_1000,James Harris,nicholasallen@example.org,45,Silver,Uptown,2025-11-27

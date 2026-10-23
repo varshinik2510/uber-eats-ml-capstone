@@ -1,0 +1,101 @@
+restaurant_id,name,category,city_zone,average_rating,price_range,base_prep_time_min
+REST_001,Fisher Inc Kitchen,Japanese,Suburbs,3.2,$$$,22
+REST_002,Hoover-Frazier Kitchen,Italian,University Zone,3.96,$$$,25
+REST_003,Walker Inc Kitchen,American,University Zone,4.8,$,20
+REST_004,"Jackson, Jackson and Perry Kitchen",American,Downtown,4.26,$,20
+REST_005,Ochoa LLC Kitchen,Fast Food,Suburbs,3.23,$$$,12
+REST_006,"Sims, Weber and Villa Kitchen",Fast Food,Downtown,3.97,$,12
+REST_007,Mcmillan-Martinez Kitchen,Fast Food,Midtown,4.63,$$,12
+REST_008,Rodriguez LLC Kitchen,American,Downtown,4.86,$$,20
+REST_009,Smith Ltd Kitchen,Indian,Uptown,3.94,$$$,28
+REST_010,Smith-Lewis Kitchen,Mexican,Suburbs,4.75,$$$,18
+REST_011,Jones LLC Kitchen,Japanese,Downtown,3.94,$$,22
+REST_012,"Hanson, Williams and Mcclure Kitchen",Indian,Downtown,4.2,$$,28
+REST_013,Turner-George Kitchen,Fast Food,Suburbs,3.61,$,12
+REST_014,Marquez PLC Kitchen,Healthy / Vegan,Suburbs,3.54,$,16
+REST_015,King Inc Kitchen,Healthy / Vegan,University Zone,3.81,$,16
+REST_016,"Nguyen, Mccoy and Price Kitchen",Italian,University Zone,3.31,$$,25
+REST_017,"Anderson, Thompson and Gill Kitchen",American,Uptown,4.23,$$,20
+REST_018,"Stewart, York and Olson Kitchen",American,Midtown,4.82,$$$,20
+REST_019,Smith-Barr Kitchen,Healthy / Vegan,Uptown,4.6,$,16
+REST_020,Reyes-Davidson Kitchen,Desserts,Midtown,3.54,$$,10
+REST_021,Gordon Ltd Kitchen,Healthy / Vegan,Uptown,4.45,$$,16
+REST_022,Hall PLC Kitchen,Fast Food,Uptown,4.77,$$,12
+REST_023,Parker Ltd Kitchen,Fast Food,Downtown,4.67,$$$,12
+REST_024,Todd-Harvey Kitchen,Fast Food,Uptown,3.26,$$,12
+REST_025,Taylor Group Kitchen,Mexican,Uptown,4.69,$$,18
+REST_026,Harris-Bennett Kitchen,Italian,Midtown,4.05,$$,25
+REST_027,"Johnson, Mclean and George Kitchen",Mexican,Midtown,4.53,$$,18
+REST_028,Stevenson-Murphy Kitchen,American,Midtown,4.53,$,20
+REST_029,Stewart-Buchanan Kitchen,Japanese,University Zone,4.2,$$,22
+REST_030,Meyer Group Kitchen,Desserts,Downtown,4.78,$$,10
+REST_031,"Hess, Christensen and Perez Kitchen",American,Downtown,3.22,$,20
+REST_032,"Rivera, Allen and Ryan Kitchen",American,University Zone,3.39,$,20
+REST_033,"Mcneil, Solis and Horton Kitchen",Italian,Midtown,4.8,$$$,25
+REST_034,Franklin Group Kitchen,Mexican,Uptown,4.61,$,18
+REST_035,"Morris, Ramos and Smith Kitchen",Mexican,Suburbs,3.21,$,18
+REST_036,Jones-Lee Kitchen,Desserts,Downtown,4.14,$,10
+REST_037,"Braun, Mays and Martinez Kitchen",Healthy / Vegan,Downtown,3.33,$$,16
+REST_038,Watkins and Sons Kitchen,American,University Zone,4.75,$,20
+REST_039,Romero Group Kitchen,Italian,Midtown,3.83,$$$,25
+REST_040,"Mcdonald, Martin and Gonzalez Kitchen",Fast Food,University Zone,3.74,$,12
+REST_041,Thompson-Wright Kitchen,Indian,Downtown,4.61,$$$,28
+REST_042,Ray-Faulkner Kitchen,Italian,Suburbs,4.7,$$$,25
+REST_043,Nelson Group Kitchen,Indian,Downtown,3.9,$,28
+REST_044,Tapia LLC Kitchen,Mexican,Suburbs,3.9,$,18
+REST_045,Gray-Ruiz Kitchen,Healthy / Vegan,University Zone,3.93,$$,16
+REST_046,Wagner-Moss Kitchen,American,Downtown,4.54,$,20
+REST_047,Weiss Group Kitchen,American,Midtown,3.48,$$$,20
+REST_048,Gill Group Kitchen,Italian,Suburbs,3.8,$$,25
+REST_049,Blake LLC Kitchen,Italian,Suburbs,4.08,$,25
+REST_050,"Medina, Tran and Thompson Kitchen",Healthy / Vegan,Uptown,3.3,$,16
+REST_051,Ford-Chavez Kitchen,American,Uptown,4.83,$$,20
+REST_052,Hart-Castillo Kitchen,Healthy / Vegan,Downtown,4.48,$$,16
+REST_053,Taylor-Harrison Kitchen,Italian,Midtown,3.9,$,25
+REST_054,Hendricks Inc Kitchen,Italian,University Zone,3.76,$$$,25
+REST_055,Hensley Ltd Kitchen,Italian,University Zone,3.24,$$,25
+REST_056,"Brooks, Sullivan and Perry Kitchen",Mexican,University Zone,3.4,$$,18
+REST_057,Waller-Brooks Kitchen,Desserts,University Zone,4.38,$,10
+REST_058,Parker-Archer Kitchen,Fast Food,Midtown,4.35,$$,12
+REST_059,Ortiz Inc Kitchen,Mexican,Downtown,4.52,$$$,18
+REST_060,Cruz PLC Kitchen,Indian,University Zone,4.01,$$,28
+REST_061,Lee Group Kitchen,Desserts,Downtown,4.41,$$,10
+REST_062,Wise-Walton Kitchen,Fast Food,Downtown,4.11,$$,12
+REST_063,Hicks-Burns Kitchen,American,Uptown,4.63,$,20
+REST_064,"Richardson, Brown and Cruz Kitchen",American,University Zone,4.55,$,20
+REST_065,Fitzgerald-Allen Kitchen,Italian,Uptown,3.89,$,25
+REST_066,Dorsey LLC Kitchen,American,Midtown,3.86,$$$,20
+REST_067,"Mann, Johnson and Wade Kitchen",Desserts,Suburbs,3.55,$,10
+REST_068,Green Group Kitchen,Desserts,Suburbs,4.85,$$,10
+REST_069,"Hernandez, Wright and Lane Kitchen",Fast Food,Midtown,3.33,$$,12
+REST_070,"Skinner, Smith and Wise Kitchen",American,University Zone,3.94,$$,20
+REST_071,"Dawson, Cruz and Mccarthy Kitchen",Mexican,Uptown,3.96,$,18
+REST_072,Stone and Sons Kitchen,Desserts,Suburbs,4.23,$$,10
+REST_073,Martin-Simmons Kitchen,Japanese,Uptown,3.28,$$$,22
+REST_074,"Turner, Ponce and Barrett Kitchen",American,Downtown,3.57,$,20
+REST_075,Willis-Gross Kitchen,Healthy / Vegan,University Zone,4.57,$,16
+REST_076,"Booth, Rodriguez and Armstrong Kitchen",Desserts,Downtown,3.31,$$,10
+REST_077,Olsen-Adams Kitchen,Mexican,Midtown,4.09,$$,18
+REST_078,Conrad Group Kitchen,Indian,Suburbs,4.34,$$,28
+REST_079,"Parker, Benitez and Velasquez Kitchen",Healthy / Vegan,Suburbs,4.33,$,16
+REST_080,Davis Ltd Kitchen,Italian,Uptown,4.74,$$,25
+REST_081,Warren-Pena Kitchen,Italian,University Zone,4.71,$$,25
+REST_082,"Jordan, Thompson and Lopez Kitchen",American,Midtown,3.47,$$,20
+REST_083,Gonzalez and Sons Kitchen,Indian,Uptown,3.66,$,28
+REST_084,"Fry, Hayes and Olsen Kitchen",Mexican,Suburbs,3.57,$$,18
+REST_085,Harris Ltd Kitchen,Indian,Downtown,3.52,$$,28
+REST_086,Lamb and Sons Kitchen,Italian,Midtown,3.85,$$,25
+REST_087,Bird-Savage Kitchen,American,Downtown,4.55,$,20
+REST_088,Sims-Weber Kitchen,American,University Zone,4.47,$,20
+REST_089,"Martin, Carter and Gray Kitchen",Mexican,University Zone,4.6,$$,18
+REST_090,Brown-Johnson Kitchen,Mexican,Midtown,4.31,$$,18
+REST_091,Woods Ltd Kitchen,Healthy / Vegan,Suburbs,4.6,$$,16
+REST_092,Smith LLC Kitchen,Japanese,Suburbs,3.83,$,22
+REST_093,Ortega Inc Kitchen,Mexican,University Zone,3.64,$$$,18
+REST_094,Clark Inc Kitchen,Indian,Suburbs,4.6,$,28
+REST_095,Morrison-Hatfield Kitchen,Italian,Downtown,4.53,$$$,25
+REST_096,Frederick-Kennedy Kitchen,Indian,University Zone,4.07,$$,28
+REST_097,Munoz-Rogers Kitchen,Mexican,Midtown,4.6,$$,18
+REST_098,"Wu, Key and Montoya Kitchen",Fast Food,Uptown,4.18,$$$,12
+REST_099,Ortega-Gray Kitchen,Indian,Uptown,4.79,$$,28
+REST_100,Hester LLC Kitchen,Italian,Uptown,3.21,$,25
