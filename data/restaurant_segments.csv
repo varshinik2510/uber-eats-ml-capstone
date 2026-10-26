@@ -1,0 +1,101 @@
+restaurant_id,name,category,price_range,total_orders_received,total_revenue,avg_order_value,cancellation_rate,avg_prep_time_min,avg_delivery_time_min,avg_customer_rating,review_count,performance_cluster,operational_tier
+REST_001,Fisher Inc Kitchen,Japanese,$$$,85,7337.11,86.32,0.0471,20.96,36.83,3.55,38,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_002,Hoover-Frazier Kitchen,Italian,$$$,111,9476.15,85.37,0.0541,24.1,40.16,2.79,29,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_003,Walker Inc Kitchen,American,$,106,2621.7,24.73,0.0472,19.59,35.62,3.15,40,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_004,"Jackson, Jackson and Perry Kitchen",American,$,105,2519.27,23.99,0.0476,19.74,36.24,3.35,43,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_005,Ochoa LLC Kitchen,Fast Food,$$$,103,9077.14,88.13,0.0194,12.24,30.53,3.95,38,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_006,"Sims, Weber and Villa Kitchen",Fast Food,$,85,2100.84,24.72,0.0588,11.27,27.25,4.15,27,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_007,Mcmillan-Martinez Kitchen,Fast Food,$$,118,5621.08,47.64,0.0254,11.92,30.37,3.78,51,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_008,Rodriguez LLC Kitchen,American,$$,83,3765.5,45.37,0.0723,19.93,36.34,3.67,30,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_009,Smith Ltd Kitchen,Indian,$$$,105,8698.02,82.84,0.0476,27.47,43.74,2.45,47,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_010,Smith-Lewis Kitchen,Mexican,$$$,98,8364.38,85.35,0.0204,17.41,35.4,3.5,42,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_011,Jones LLC Kitchen,Japanese,$$,91,4536.21,49.85,0.044,22.3,36.63,3.03,34,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_012,"Hanson, Williams and Mcclure Kitchen",Indian,$$,110,4914.04,44.67,0.0545,27.27,43.76,2.43,44,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_013,Turner-George Kitchen,Fast Food,$,95,2635.3,27.74,0.0421,11.67,27.02,4.11,38,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_014,Marquez PLC Kitchen,Healthy / Vegan,$,87,2214.4,25.45,0.0575,16.4,34.51,3.5,34,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_015,King Inc Kitchen,Healthy / Vegan,$,116,3023.51,26.06,0.0431,16.06,32.67,3.18,40,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_016,"Nguyen, Mccoy and Price Kitchen",Italian,$$,91,3976.33,43.7,0.0659,24.45,39.6,2.88,26,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_017,"Anderson, Thompson and Gill Kitchen",American,$$,101,4892.75,48.44,0.0594,19.05,35.28,3.43,44,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_018,"Stewart, York and Olson Kitchen",American,$$$,97,8416.38,86.77,0.0619,19.17,34.94,3.53,34,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_019,Smith-Barr Kitchen,Healthy / Vegan,$,117,2794.26,23.88,0.0171,15.49,30.02,3.62,37,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_020,Reyes-Davidson Kitchen,Desserts,$$,108,5922.89,54.84,0.0648,10.93,29.6,3.82,38,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_021,Gordon Ltd Kitchen,Healthy / Vegan,$$,97,4469.88,46.08,0.0515,16.2,33.12,3.45,33,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_022,Hall PLC Kitchen,Fast Food,$$,96,4307.97,44.87,0.0417,12.15,27.87,4.05,42,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_023,Parker Ltd Kitchen,Fast Food,$$$,104,8549.79,82.21,0.0192,12.3,28.94,3.76,41,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_024,Todd-Harvey Kitchen,Fast Food,$$,91,4227.42,46.46,0.044,12.4,29.87,3.76,29,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_025,Taylor Group Kitchen,Mexican,$$,104,4835.14,46.49,0.0481,17.47,33.86,3.71,31,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_026,Harris-Bennett Kitchen,Italian,$$,124,5869.87,47.34,0.0323,24.08,40.98,2.9,42,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_027,"Johnson, Mclean and George Kitchen",Mexican,$$,114,5321.07,46.68,0.0175,17.86,32.68,3.74,50,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_028,Stevenson-Murphy Kitchen,American,$,108,3189.92,29.54,0.0463,19.72,35.74,3.45,53,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_029,Stewart-Buchanan Kitchen,Japanese,$$,109,5118.9,46.96,0.0092,20.81,38.77,3.12,41,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_030,Meyer Group Kitchen,Desserts,$$,94,4402.57,46.84,0.0213,10.51,26.63,3.89,35,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_031,"Hess, Christensen and Perez Kitchen",American,$,104,2760.07,26.54,0.0481,20.23,36.44,3.35,31,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_032,"Rivera, Allen and Ryan Kitchen",American,$,103,2538.06,24.64,0.0388,20.15,36.04,3.49,41,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_033,"Mcneil, Solis and Horton Kitchen",Italian,$$$,86,7429.88,86.39,0.0581,24.25,39.71,2.77,31,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_034,Franklin Group Kitchen,Mexican,$,86,2209.35,25.69,0.0465,18.32,38.77,3.25,32,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_035,"Morris, Ramos and Smith Kitchen",Mexican,$,91,2602.28,28.6,0.033,18.08,38.34,3.08,26,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_036,Jones-Lee Kitchen,Desserts,$,93,2798.7,30.09,0.043,10.78,26.1,3.94,36,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_037,"Braun, Mays and Martinez Kitchen",Healthy / Vegan,$$,86,3578.63,41.61,0.0349,16.05,32.22,3.62,26,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_038,Watkins and Sons Kitchen,American,$,93,2465.85,26.51,0.043,19.63,34.85,3.07,27,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_039,Romero Group Kitchen,Italian,$$$,95,8278.65,87.14,0.0632,24.31,39.51,3.12,34,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_040,"Mcdonald, Martin and Gonzalez Kitchen",Fast Food,$,92,2664.24,28.96,0.0217,12.1,28.03,4.05,37,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_041,Thompson-Wright Kitchen,Indian,$$$,117,9710.37,82.99,0.0513,27.23,43.79,2.3,44,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_042,Ray-Faulkner Kitchen,Italian,$$$,104,8773.85,84.36,0.0192,24.07,41.75,2.71,41,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_043,Nelson Group Kitchen,Indian,$,82,2194.06,26.76,0.0366,27.62,42.69,2.91,22,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_044,Tapia LLC Kitchen,Mexican,$,97,2455.13,25.31,0.0309,17.63,36.86,3.56,32,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_045,Gray-Ruiz Kitchen,Healthy / Vegan,$$,96,5049.64,52.6,0.0521,15.75,31.54,3.74,38,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_046,Wagner-Moss Kitchen,American,$,103,2938.19,28.53,0.0583,19.48,34.63,3.88,40,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_047,Weiss Group Kitchen,American,$$$,111,9133.69,82.29,0.018,19.54,37.21,3.11,45,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_048,Gill Group Kitchen,Italian,$$,105,5021.64,47.83,0.0571,24.23,43.74,2.71,34,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_049,Blake LLC Kitchen,Italian,$,109,2756.64,25.29,0.0367,24.55,39.55,2.94,35,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_050,"Medina, Tran and Thompson Kitchen",Healthy / Vegan,$,108,2565.84,23.76,0.0278,16.48,32.47,3.59,44,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_051,Ford-Chavez Kitchen,American,$$,104,5007.24,48.15,0.0673,18.94,33.28,3.61,44,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_052,Hart-Castillo Kitchen,Healthy / Vegan,$$,101,4357.6,43.14,0.0396,15.57,32.42,3.65,37,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_053,Taylor-Harrison Kitchen,Italian,$,113,2798.32,24.76,0.0442,24.55,43.28,2.83,36,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_054,Hendricks Inc Kitchen,Italian,$$$,82,6673.0,81.38,0.0244,24.96,40.48,3.0,33,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_055,Hensley Ltd Kitchen,Italian,$$,94,4406.47,46.88,0.0851,24.23,39.26,2.91,32,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_056,"Brooks, Sullivan and Perry Kitchen",Mexican,$$,90,4342.65,48.25,0.0556,17.99,34.47,3.64,36,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_057,Waller-Brooks Kitchen,Desserts,$,103,2719.53,26.4,0.0291,10.84,28.34,3.88,33,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_058,Parker-Archer Kitchen,Fast Food,$$,101,4846.66,47.99,0.0594,11.97,29.82,3.96,28,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_059,Ortiz Inc Kitchen,Mexican,$$$,103,9169.52,89.02,0.0194,17.89,35.95,3.29,34,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_060,Cruz PLC Kitchen,Indian,$$,100,5236.97,52.37,0.06,27.12,45.3,2.78,36,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_061,Lee Group Kitchen,Desserts,$$,98,4439.62,45.3,0.051,10.5,27.37,3.97,38,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_062,Wise-Walton Kitchen,Fast Food,$$,91,4451.84,48.92,0.033,12.25,28.12,4.03,32,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_063,Hicks-Burns Kitchen,American,$,111,2805.33,25.27,0.0541,19.54,36.75,3.16,45,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_064,"Richardson, Brown and Cruz Kitchen",American,$,88,2217.81,25.2,0.0341,19.7,35.31,3.22,27,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_065,Fitzgerald-Allen Kitchen,Italian,$,116,3161.06,27.25,0.0431,25.01,41.72,2.88,41,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_066,Dorsey LLC Kitchen,American,$$$,117,9552.88,81.65,0.0171,19.91,36.34,3.11,44,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_067,"Mann, Johnson and Wade Kitchen",Desserts,$,87,1910.62,21.96,0.0575,10.6,27.26,3.85,34,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_068,Green Group Kitchen,Desserts,$$,105,4537.7,43.22,0.0286,10.27,27.46,3.72,29,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_069,"Hernandez, Wright and Lane Kitchen",Fast Food,$$,102,4942.12,48.45,0.0392,11.67,26.95,4.16,38,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_070,"Skinner, Smith and Wise Kitchen",American,$$,95,4484.0,47.2,0.0526,18.51,35.75,3.53,36,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_071,"Dawson, Cruz and Mccarthy Kitchen",Mexican,$,105,2697.91,25.69,0.019,18.01,33.09,3.82,38,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_072,Stone and Sons Kitchen,Desserts,$$,129,6165.42,47.79,0.0465,10.46,27.11,3.81,52,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_073,Martin-Simmons Kitchen,Japanese,$$$,87,7352.52,84.51,0.046,21.3,37.95,2.85,26,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_074,"Turner, Ponce and Barrett Kitchen",American,$,110,2788.47,25.35,0.0636,19.96,37.38,3.24,38,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_075,Willis-Gross Kitchen,Healthy / Vegan,$,104,2844.83,27.35,0.0192,15.85,34.03,3.34,41,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_076,"Booth, Rodriguez and Armstrong Kitchen",Desserts,$$,97,4273.28,44.05,0.0309,10.17,27.47,4.19,42,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_077,Olsen-Adams Kitchen,Mexican,$$,112,5502.57,49.13,0.0268,17.88,34.84,3.21,38,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_078,Conrad Group Kitchen,Indian,$$,90,4390.54,48.78,0.0333,27.69,46.55,2.18,38,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_079,"Parker, Benitez and Velasquez Kitchen",Healthy / Vegan,$,75,1945.17,25.94,0.0267,15.39,33.22,3.7,37,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_080,Davis Ltd Kitchen,Italian,$$,116,5584.52,48.14,0.0259,24.45,40.06,2.77,43,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_081,Warren-Pena Kitchen,Italian,$$,109,5696.87,52.26,0.0092,24.62,39.65,3.0,39,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_082,"Jordan, Thompson and Lopez Kitchen",American,$$,90,3966.17,44.07,0.0222,19.22,35.7,3.52,33,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_083,Gonzalez and Sons Kitchen,Indian,$,105,2528.82,24.08,0.0381,26.72,43.02,2.7,46,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_084,"Fry, Hayes and Olsen Kitchen",Mexican,$$,84,4198.76,49.99,0.0238,17.28,31.73,3.5,26,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_085,Harris Ltd Kitchen,Indian,$$,100,4641.9,46.42,0.04,26.94,43.09,2.77,43,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_086,Lamb and Sons Kitchen,Italian,$$,95,4391.3,46.22,0.0421,24.07,40.7,2.86,36,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_087,Bird-Savage Kitchen,American,$,119,3125.43,26.26,0.0336,19.61,35.0,3.65,46,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_088,Sims-Weber Kitchen,American,$,96,2359.89,24.58,0.0417,19.8,36.82,2.85,33,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_089,"Martin, Carter and Gray Kitchen",Mexican,$$,104,4658.6,44.79,0.0192,17.57,33.51,3.47,36,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_090,Brown-Johnson Kitchen,Mexican,$$,93,4514.8,48.55,0.043,17.7,36.98,3.21,38,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_091,Woods Ltd Kitchen,Healthy / Vegan,$$,94,4383.87,46.64,0.0532,15.39,32.28,3.61,33,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_092,Smith LLC Kitchen,Japanese,$,97,2639.27,27.21,0.0103,21.72,38.2,3.2,35,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_093,Ortega Inc Kitchen,Mexican,$$$,86,7739.94,90.0,0.0116,17.35,33.26,3.89,35,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_094,Clark Inc Kitchen,Indian,$,100,2827.3,28.27,0.07,27.97,43.17,2.59,44,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_095,Morrison-Hatfield Kitchen,Italian,$$$,103,8575.02,83.25,0.0777,24.26,41.93,2.7,37,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_096,Frederick-Kennedy Kitchen,Indian,$$,95,4344.76,45.73,0.0737,27.49,44.43,2.5,30,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_097,Munoz-Rogers Kitchen,Mexican,$$,103,5166.7,50.16,0.0291,18.33,34.11,3.34,38,0,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_098,"Wu, Key and Montoya Kitchen",Fast Food,$$$,98,8166.04,83.33,0.0306,12.43,29.18,3.88,42,1,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_099,Ortega-Gray Kitchen,Indian,$$,86,4261.98,49.56,0.0814,27.6,42.59,2.82,34,2,Tier 3: Kitchen Bottleneck / High Prep Risk
+REST_100,Hester LLC Kitchen,Italian,$,103,2471.89,24.0,0.0777,24.43,42.44,2.76,37,2,Tier 3: Kitchen Bottleneck / High Prep Risk
