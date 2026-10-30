@@ -1,0 +1,6 @@
+ML Module,Algorithm,Primary Metric,Operational Role
+Customer Segmentation,"K-Means (K=4, PCA 2D)",Silhouette Score: 0.38 / Inertia Elbow Verified,Customer Persona & Lifetime Value Tiering
+Anomaly Detection,"DBSCAN (eps=1.2, min_samples=5)","Outlier Rate: 12.3% (123 / 1,000 customers)",High-Frequency & Extreme Basket Size Flagging
+Delivery ETA Prediction,Linear Regression (Baseline),MAE: 9.206 min | RMSE: 13.471 min | R2: 0.1999,Dynamic Fulfillment Window Calculation
+Review Sentiment NLP,Multinomial Naive Bayes (TF-IDF),Accuracy: 100.0% | Weighted F1: 1.0000,Automated Feedback & Churn Risk Detection
+Hourly Demand Forecasting,"ARIMA(2,1,2)",MAE: 1.45 orders/h | RMSE: 2.06 orders/h,Proactive Courier Fleet Shift Scheduling
