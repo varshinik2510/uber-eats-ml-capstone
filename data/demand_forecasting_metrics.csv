@@ -1,0 +1,2 @@
+model,adf_p_value,test_horizon_hours,mae,rmse,mape_percent
+"ARIMA(2,1,2)",0.0,48,1.45,2.06,71.02
